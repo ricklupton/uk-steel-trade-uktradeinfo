@@ -1,0 +1,48 @@
+{
+  "bytes": 329154,
+  "count_of_rows": 11605,
+  "hash": "a94f1392e7690258182523d53fa39c63",
+  "homepage": "https://www.uktradeinfo.com/Statistics/BuildYourOwnTables/Pages/Home.aspx",
+  "name": "uk-steel-trade",
+  "resources": [
+    {
+      "bytes": 329154,
+      "count_of_rows": 11605,
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "2e5c9f90cd831daab0467ce5dfd78c1b",
+      "name": "flows",
+      "path": "data/flows.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "HS4",
+            "type": "string"
+          },
+          {
+            "name": "direction",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "groupChar": "",
+            "name": "mass",
+            "type": "number"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "title": "UK overseas trade of steel-containing goods"
+}

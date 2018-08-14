@@ -1,0 +1,133 @@
+trade-data:
+  title: UK trade of steel-containing goods from 1996 to 2017
+  description: |
+    Overseas Trade Statistics for HS codes relevant to steel-containing
+    products, from 1996 to 2017.
+
+    Data from trade (in goods) between the UK and non-EU countries are collected
+    from UK Customs import and export entries, and between the UK and other EU
+    Member States from VAT returns and the HMRC Intrastat survey.
+
+  pipeline:
+    # Set up the datapackage metadata
+    -
+      run: add_metadata
+      parameters:
+        name: 'uk-steel-trade'
+        title: 'UK overseas trade of steel-containing goods'
+        homepage: 'https://www.uktradeinfo.com/Statistics/BuildYourOwnTables/Pages/Home.aspx'
+
+    # Add the spreadsheet of data...
+    -
+      run: add_resource
+      parameters:
+        name: 'flows'
+        url: 'raw_data/uktradeinfo_20180813_tidied.xls'
+        format: xls
+        headers: 1
+
+    # ... and load it.
+    -
+      run: stream_remote_resources
+
+    # Fill in missing values by copying down the last-seen value.
+    # -
+    #   run: fill_missing_values
+    #   parameters:
+    #     fields:
+    #       - EU Indicator
+    #       - HS2
+    #       - HS4
+
+    # Unpivot the data, so each row corresponds to one "observation", i.e. the
+    # combination of year, trade flow type (import or export), and HS code.
+    -
+      run: unpivot
+      parameters:
+        # New columns to be created
+        extraKeyFields:
+          - name: direction
+            type: string
+          - name: year
+            type: integer
+
+        # New columns containing the transaction value
+        extraValueField:
+          name: mass
+          type: number
+
+        unpivot:
+          - name: '([A-Z])([0-9]{4})'  # regular expression for the column names
+            keys:
+              direction: '\1'
+              year: '\2'
+
+    # Discard rows with missing values (e.g. "Imports" for EU countries, which
+    # have "Arrivals" instead)
+    -
+      run: filter
+      parameters:
+        out:
+          - mass:
+
+    # XXX this seems to be needed to make sure the mass is interpreted as a
+    # number not a string in the join operation below.
+    -
+      run: set_types
+      parameters:
+        types:
+          mass:
+            type: number
+
+    # Tidy up HS codes by discarding the description -- can get it back later.
+    # Add up Arrivals and Imports, and D and Exports
+    -
+      run: find_replace
+      parameters:
+        fields:
+          - name: HS4
+            patterns:
+              - find: ([0-9-]{4}) - .*$
+                replace: \1
+          - name: direction
+            patterns:
+              - find: A
+                replace: import
+              - find: I
+                replace: import
+              - find: E
+                replace: export
+              - find: D
+                replace: export
+
+    # Add up duplicated imports and exports rows (EU and non-EU)
+    -
+      run: join
+      parameters:
+        source:
+          name: 'flows'
+          key:
+            - HS4
+            - direction
+            - year
+          delete: true
+        target:
+          name: 'flows'
+          key: null
+        fields:
+          HS4: {}
+          direction: {}
+          year: {}
+          mass:
+            aggregate: 'sum'
+
+    -
+      run: dump.to_path
+      parameters:
+        pretty-descriptor: true
+        out-path: '.'
+
+    -
+      run: dump.to_zip
+      parameters:
+        out-file: 'uk-steel-trade.zip'
