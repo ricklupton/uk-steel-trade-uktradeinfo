@@ -42,6 +42,96 @@
           }
         ]
       }
+    },
+    {
+      "path": "data/imports.csv",
+      "profile": "tabular-data-resource",
+      "name": "imports",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "product_group_id",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "product_group",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "iron_content",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "mass",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "mass_iron",
+            "type": "number",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "path": "data/exports.csv",
+      "profile": "tabular-data-resource",
+      "name": "exports",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "product_group_id",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "product_group",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "iron_content",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "mass",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "mass_iron",
+            "type": "number",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
     }
   ],
   "title": "UK overseas trade of steel-containing goods"

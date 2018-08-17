@@ -1,6 +1,15 @@
 Overseas Trade Statistics for HS codes relevant to steel-containing
 products, from 1996 to 2017.
 
+The raw trade data is aggregated according to the Biffaward categories to find
+steel contents.
+
+## TODO
+
+- The allocations need checking as they were inconsistent between the EU and
+  non-EU categories.
+- Compare to other trade data (ISSB/worldsteel)
+
 ## Data
 
 Data from trade (in goods) between the UK and non-EU countries are collected
@@ -36,3 +45,11 @@ tool. Run it in this directory to build the datapackage:
 ```
 dpp run ./trade-data
 ```
+
+To aggregate the trade flows and find iron contents:
+
+```python
+python scripts/aggregate_trade_flows.py
+```
+
+This creates the `data/imports.csv` and `data/exports.csv` files.
