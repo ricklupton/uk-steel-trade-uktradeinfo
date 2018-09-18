@@ -53,12 +53,17 @@
       "schema": {
         "fields": [
           {
-            "name": "product_group_id",
-            "type": "integer",
+            "name": "sector_code",
+            "type": "string",
             "format": "default"
           },
           {
-            "name": "product_group",
+            "name": "sector_group",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "sector_name",
             "type": "string",
             "format": "default"
           },
@@ -98,12 +103,17 @@
       "schema": {
         "fields": [
           {
-            "name": "product_group_id",
-            "type": "integer",
+            "name": "sector_code",
+            "type": "string",
             "format": "default"
           },
           {
-            "name": "product_group",
+            "name": "sector_group",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "sector_name",
             "type": "string",
             "format": "default"
           },
