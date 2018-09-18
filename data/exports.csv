@@ -1,177 +1,331 @@
-product_group_id,product_group,year,iron_content,mass,mass_iron
-1,Mechanical engineering,1996,0.71,1398.347307,992.82658797
-1,Mechanical engineering,1997,0.71,1818.808113,1291.35376023
-1,Mechanical engineering,1998,0.71,1767.971222,1255.2595676199999
-1,Mechanical engineering,1999,0.71,1583.735004,1124.45185284
-1,Mechanical engineering,2000,0.71,1771.508603,1257.77110813
-1,Mechanical engineering,2001,0.71,1660.777385,1179.15194335
-1,Mechanical engineering,2002,0.71,1871.034545,1328.43452695
-1,Mechanical engineering,2003,0.71,1857.499972,1318.82498012
-1,Mechanical engineering,2004,0.71,2331.577261,1655.4198553099998
-1,Mechanical engineering,2005,0.71,2063.734575,1465.2515482499998
-1,Mechanical engineering,2006,0.71,2115.688612,1502.1389145199998
-1,Mechanical engineering,2007,0.71,2343.125168,1663.61886928
-1,Mechanical engineering,2008,0.71,2384.260673,1692.82507783
-1,Mechanical engineering,2009,0.71,1609.553615,1142.78306665
-1,Mechanical engineering,2010,0.71,1935.131042,1373.94303982
-1,Mechanical engineering,2011,0.71,2181.390444,1548.78721524
-1,Mechanical engineering,2012,0.71,2090.306937,1484.11792527
-1,Mechanical engineering,2013,0.71,2024.36194,1437.2969773999998
-1,Mechanical engineering,2014,0.71,2001.756214,1421.24691194
-1,Mechanical engineering,2015,0.71,1804.181089,1280.96857319
-1,Mechanical engineering,2016,0.71,2003.235742,1422.29737682
-1,Mechanical engineering,2017,0.71,2085.767962,1480.89525302
-2,Electrical engineering,1996,0.3,955.406834,286.6220502
-2,Electrical engineering,1997,0.3,1363.19958,408.95987399999996
-2,Electrical engineering,1998,0.3,1716.226782,514.8680346
-2,Electrical engineering,1999,0.3,1251.024183,375.3072549
-2,Electrical engineering,2000,0.3,1890.226873,567.0680619
-2,Electrical engineering,2001,0.3,1209.230241,362.7690723
-2,Electrical engineering,2002,0.3,977.967202,293.3901606
-2,Electrical engineering,2003,0.3,1041.241651,312.3724953
-2,Electrical engineering,2004,0.3,1027.973504,308.3920512
-2,Electrical engineering,2005,0.3,981.856455,294.5569365
-2,Electrical engineering,2006,0.3,944.299099,283.28972969999995
-2,Electrical engineering,2007,0.3,870.300067,261.0900201
-2,Electrical engineering,2008,0.3,825.074018,247.5222054
-2,Electrical engineering,2009,0.3,582.94488,174.883464
-2,Electrical engineering,2010,0.3,680.557443,204.16723290000002
-2,Electrical engineering,2011,0.3,668.774709,200.6324127
-2,Electrical engineering,2012,0.3,648.575121,194.5725363
-2,Electrical engineering,2013,0.3,590.652482,177.19574459999998
-2,Electrical engineering,2014,0.3,615.361478,184.6084434
-2,Electrical engineering,2015,0.3,591.324443,177.39733289999998
-2,Electrical engineering,2016,0.3,573.971186,172.1913558
-2,Electrical engineering,2017,0.3,602.111426,180.63342780000002
-3,Shipbuilding,1996,0.7,49.53653,34.675571
-3,Shipbuilding,1997,0.7,75.016013,52.511209099999995
-3,Shipbuilding,1998,0.7,61.054123,42.7378861
-3,Shipbuilding,1999,0.7,37.936858,26.555800599999998
-3,Shipbuilding,2000,0.7,50.910427,35.6372989
-3,Shipbuilding,2001,0.7,33.451699,23.416189299999996
-3,Shipbuilding,2002,0.7,39.073163,27.3512141
-3,Shipbuilding,2003,0.7,68.029998,47.6209986
-3,Shipbuilding,2004,0.7,46.667189,32.667032299999995
-3,Shipbuilding,2005,0.7,53.593171,37.515219699999996
-3,Shipbuilding,2006,0.7,53.967314,37.7771198
-3,Shipbuilding,2007,0.7,56.507669,39.5553683
-3,Shipbuilding,2008,0.7,73.872239,51.710567299999994
-3,Shipbuilding,2009,0.7,49.675103,34.7725721
-3,Shipbuilding,2010,0.7,73.882897,51.718027899999996
-3,Shipbuilding,2011,0.7,75.745998,53.022198599999996
-3,Shipbuilding,2012,0.7,73.962761,51.773932699999996
-3,Shipbuilding,2013,0.7,103.16357,72.214499
-3,Shipbuilding,2014,0.7,66.249852,46.3748964
-3,Shipbuilding,2015,0.7,77.257164,54.0800148
-3,Shipbuilding,2016,0.7,120.842485,84.5897395
-3,Shipbuilding,2017,0.7,64.629245,45.2404715
-4,Vehicles,1996,0.58,2696.997096,1564.25831568
-4,Vehicles,1997,0.58,2872.632045,1666.1265860999997
-4,Vehicles,1998,0.58,3022.298948,1752.93338984
-4,Vehicles,1999,0.58,3158.031289,1831.65814762
-4,Vehicles,2000,0.58,3272.318359,1897.9446482199999
-4,Vehicles,2001,0.58,3049.097926,1768.4767970799999
-4,Vehicles,2002,0.58,3207.243464,1860.20120912
-4,Vehicles,2003,0.58,3390.701592,1966.6069233599999
-4,Vehicles,2004,0.58,4514.527849,2618.4261524199997
-4,Vehicles,2005,0.58,3903.739681,2264.1690149799997
-4,Vehicles,2006,0.58,3477.059419,2016.69446302
-4,Vehicles,2007,0.58,3505.720931,2033.3181399799998
-4,Vehicles,2008,0.58,3305.285074,1917.0653429199997
-4,Vehicles,2009,0.58,2279.399052,1322.05145016
-4,Vehicles,2010,0.58,2764.796831,1603.58216198
-4,Vehicles,2011,0.58,3227.728045,1872.0822660999997
-4,Vehicles,2012,0.58,3358.287135,1947.8065382999998
-4,Vehicles,2013,0.58,3420.462195,1983.8680731
-4,Vehicles,2014,0.58,3328.366619,1930.4526390199999
-4,Vehicles,2015,0.58,3499.987593,2029.9928039399997
-4,Vehicles,2016,0.58,3871.850298,2245.6731728399996
-4,Vehicles,2017,0.58,3830.679933,2221.7943611399996
-5,Structural steelwork and building and civil engineering,1996,1.0,381.094246,381.094246
-5,Structural steelwork and building and civil engineering,1997,1.0,381.474829,381.474829
-5,Structural steelwork and building and civil engineering,1998,1.0,377.323418,377.323418
-5,Structural steelwork and building and civil engineering,1999,1.0,341.086069,341.086069
-5,Structural steelwork and building and civil engineering,2000,1.0,342.467613,342.467613
-5,Structural steelwork and building and civil engineering,2001,1.0,404.756035,404.756035
-5,Structural steelwork and building and civil engineering,2002,1.0,368.690302,368.690302
-5,Structural steelwork and building and civil engineering,2003,1.0,399.708296,399.708296
-5,Structural steelwork and building and civil engineering,2004,1.0,410.094349,410.094349
-5,Structural steelwork and building and civil engineering,2005,1.0,401.404224,401.404224
-5,Structural steelwork and building and civil engineering,2006,1.0,433.695248,433.695248
-5,Structural steelwork and building and civil engineering,2007,1.0,464.91695,464.91695
-5,Structural steelwork and building and civil engineering,2008,1.0,477.615649,477.615649
-5,Structural steelwork and building and civil engineering,2009,1.0,357.056252,357.056252
-5,Structural steelwork and building and civil engineering,2010,1.0,366.673038,366.673038
-5,Structural steelwork and building and civil engineering,2011,1.0,357.247992,357.247992
-5,Structural steelwork and building and civil engineering,2012,1.0,295.514644,295.514644
-5,Structural steelwork and building and civil engineering,2013,1.0,303.860817,303.860817
-5,Structural steelwork and building and civil engineering,2014,1.0,312.986293,312.986293
-5,Structural steelwork and building and civil engineering,2015,1.0,349.951883,349.951883
-5,Structural steelwork and building and civil engineering,2016,1.0,376.092217,376.092217
-5,Structural steelwork and building and civil engineering,2017,1.0,382.265839,382.265839
-6,Metal goods,1996,0.85,466.919261,396.88137185
-6,Metal goods,1997,0.85,848.054928,720.8466888
-6,Metal goods,1998,0.85,693.08453,589.1218504999999
-6,Metal goods,1999,0.85,714.089448,606.9760308
-6,Metal goods,2000,0.85,554.089604,470.9761634
-6,Metal goods,2001,0.85,707.486932,601.3638922
-6,Metal goods,2002,0.85,517.747731,440.08557135
-6,Metal goods,2003,0.85,540.477352,459.4057492
-6,Metal goods,2004,0.85,575.625356,489.2815526
-6,Metal goods,2005,0.85,709.999194,603.4993149
-6,Metal goods,2006,0.85,614.152735,522.02982475
-6,Metal goods,2007,0.85,655.239008,556.9531568
-6,Metal goods,2008,0.85,608.389988,517.1314898
-6,Metal goods,2009,0.85,514.312078,437.16526630000004
-6,Metal goods,2010,0.85,541.879251,460.59736334999997
-6,Metal goods,2011,0.85,553.08583,470.1229555
-6,Metal goods,2012,0.85,495.285761,420.99289684999997
-6,Metal goods,2013,0.85,507.783102,431.6156367
-6,Metal goods,2014,0.85,518.359585,440.60564725
-6,Metal goods,2015,0.85,472.429773,401.56530705
-6,Metal goods,2016,0.85,487.030454,413.9758859
-6,Metal goods,2017,0.85,526.768255,447.75301675
-8,"Boilers, drums and other vessels",1996,1.0,156.793995,156.793995
-8,"Boilers, drums and other vessels",1997,1.0,165.175945,165.175945
-8,"Boilers, drums and other vessels",1998,1.0,133.423199,133.423199
-8,"Boilers, drums and other vessels",1999,1.0,131.129556,131.129556
-8,"Boilers, drums and other vessels",2000,1.0,148.771736,148.771736
-8,"Boilers, drums and other vessels",2001,1.0,136.264626,136.264626
-8,"Boilers, drums and other vessels",2002,1.0,132.943747,132.943747
-8,"Boilers, drums and other vessels",2003,1.0,133.888785,133.888785
-8,"Boilers, drums and other vessels",2004,1.0,135.900357,135.900357
-8,"Boilers, drums and other vessels",2005,1.0,139.874781,139.874781
-8,"Boilers, drums and other vessels",2006,1.0,136.179575,136.179575
-8,"Boilers, drums and other vessels",2007,1.0,141.46895,141.46895
-8,"Boilers, drums and other vessels",2008,1.0,140.220604,140.220604
-8,"Boilers, drums and other vessels",2009,1.0,109.168001,109.168001
-8,"Boilers, drums and other vessels",2010,1.0,129.688578,129.688578
-8,"Boilers, drums and other vessels",2011,1.0,128.311101,128.311101
-8,"Boilers, drums and other vessels",2012,1.0,137.344221,137.344221
-8,"Boilers, drums and other vessels",2013,1.0,132.409327,132.409327
-8,"Boilers, drums and other vessels",2014,1.0,128.959062,128.959062
-8,"Boilers, drums and other vessels",2015,1.0,177.665972,177.665972
-8,"Boilers, drums and other vessels",2016,1.0,170.081736,170.081736
-8,"Boilers, drums and other vessels",2017,1.0,189.977885,189.977885
-9,Other industries,1996,0.6,263.315779,157.9894674
-9,Other industries,1997,0.6,277.368454,166.42107239999999
-9,Other industries,1998,0.6,375.590547,225.3543282
-9,Other industries,1999,0.6,356.293241,213.7759446
-9,Other industries,2000,0.6,307.518281,184.51096859999998
-9,Other industries,2001,0.6,288.583788,173.1502728
-9,Other industries,2002,0.6,287.585126,172.5510756
-9,Other industries,2003,0.6,339.692912,203.81574719999998
-9,Other industries,2004,0.6,330.87999,198.527994
-9,Other industries,2005,0.6,416.028171,249.61690259999997
-9,Other industries,2006,0.6,382.288759,229.3732554
-9,Other industries,2007,0.6,397.564187,238.53851219999999
-9,Other industries,2008,0.6,408.547708,245.12862479999998
-9,Other industries,2009,0.6,262.125705,157.275423
-9,Other industries,2010,0.6,317.669538,190.60172279999998
-9,Other industries,2011,0.6,329.930003,197.9580018
-9,Other industries,2012,0.6,321.604841,192.9629046
-9,Other industries,2013,0.6,310.888245,186.53294699999998
-9,Other industries,2014,0.6,304.633167,182.77990020000001
-9,Other industries,2015,0.6,274.260642,164.5563852
-9,Other industries,2016,0.6,270.869757,162.52185419999998
-9,Other industries,2017,0.6,280.1767,168.10601999999997
+sector_code,sector_group,sector_name,year,iron_content,mass,mass_iron
+10,Mechanical engineering,Metal working toolsand engineering tools,1996,0.7,183.0,129.9
+10,Mechanical engineering,Metal working toolsand engineering tools,1997,0.7,175.8,124.8
+10,Mechanical engineering,Metal working toolsand engineering tools,1998,0.7,326.1,231.5
+10,Mechanical engineering,Metal working toolsand engineering tools,1999,0.7,168.7,119.8
+10,Mechanical engineering,Metal working toolsand engineering tools,2000,0.7,178.8,126.9
+10,Mechanical engineering,Metal working toolsand engineering tools,2001,0.7,162.2,115.2
+10,Mechanical engineering,Metal working toolsand engineering tools,2002,0.7,185.5,131.7
+10,Mechanical engineering,Metal working toolsand engineering tools,2003,0.7,190.3,135.1
+10,Mechanical engineering,Metal working toolsand engineering tools,2004,0.7,204.2,145.0
+10,Mechanical engineering,Metal working toolsand engineering tools,2005,0.7,212.5,150.9
+10,Mechanical engineering,Metal working toolsand engineering tools,2006,0.7,223.3,158.6
+10,Mechanical engineering,Metal working toolsand engineering tools,2007,0.7,228.8,162.5
+10,Mechanical engineering,Metal working toolsand engineering tools,2008,0.7,202.1,143.5
+10,Mechanical engineering,Metal working toolsand engineering tools,2009,0.7,154.4,109.7
+10,Mechanical engineering,Metal working toolsand engineering tools,2010,0.7,183.3,130.1
+10,Mechanical engineering,Metal working toolsand engineering tools,2011,0.7,187.7,133.3
+10,Mechanical engineering,Metal working toolsand engineering tools,2012,0.7,192.8,136.9
+10,Mechanical engineering,Metal working toolsand engineering tools,2013,0.7,179.7,127.6
+10,Mechanical engineering,Metal working toolsand engineering tools,2014,0.7,191.9,136.2
+10,Mechanical engineering,Metal working toolsand engineering tools,2015,0.7,202.2,143.6
+10,Mechanical engineering,Metal working toolsand engineering tools,2016,0.7,195.4,138.8
+10,Mechanical engineering,Metal working toolsand engineering tools,2017,0.7,202.6,143.9
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",1996,0.8,407.1,346.0
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",1997,0.8,669.4,569.0
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",1998,0.8,740.7,629.6
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",1999,0.8,657.0,558.4
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2000,0.8,664.8,565.0
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2001,0.8,894.5,760.3
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2002,0.8,1055.5,897.2
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2003,0.8,975.4,829.1
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2004,0.8,2385.5,2027.6
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2005,0.8,1507.7,1281.5
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2006,0.8,1132.6,962.7
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2007,0.8,1224.5,1040.8
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2008,0.8,1161.9,987.6
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2009,0.8,659.2,560.4
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2010,0.8,846.4,719.5
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2011,0.8,979.2,832.3
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2012,0.8,952.9,809.9
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2013,0.8,882.8,750.4
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2014,0.8,829.9,705.4
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2015,0.8,744.8,633.1
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2016,0.8,738.5,627.8
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",2017,0.8,816.3,693.9
+12,Mechanical engineering,Other mechanical engineering,1996,0.7,676.6,480.4
+12,Mechanical engineering,Other mechanical engineering,1997,0.7,769.4,546.3
+12,Mechanical engineering,Other mechanical engineering,1998,0.7,749.6,532.2
+12,Mechanical engineering,Other mechanical engineering,1999,0.7,650.5,461.8
+12,Mechanical engineering,Other mechanical engineering,2000,0.7,833.4,591.7
+12,Mechanical engineering,Other mechanical engineering,2001,0.7,698.4,495.9
+12,Mechanical engineering,Other mechanical engineering,2002,0.7,692.4,491.6
+12,Mechanical engineering,Other mechanical engineering,2003,0.7,743.7,528.1
+12,Mechanical engineering,Other mechanical engineering,2004,0.7,800.8,568.5
+12,Mechanical engineering,Other mechanical engineering,2005,0.7,760.2,539.8
+12,Mechanical engineering,Other mechanical engineering,2006,0.7,826.4,586.7
+12,Mechanical engineering,Other mechanical engineering,2007,0.7,935.9,664.5
+12,Mechanical engineering,Other mechanical engineering,2008,0.7,965.8,685.7
+12,Mechanical engineering,Other mechanical engineering,2009,0.7,681.5,483.9
+12,Mechanical engineering,Other mechanical engineering,2010,0.7,835.7,593.4
+12,Mechanical engineering,Other mechanical engineering,2011,0.7,939.1,666.8
+12,Mechanical engineering,Other mechanical engineering,2012,0.7,923.4,655.6
+12,Mechanical engineering,Other mechanical engineering,2013,0.7,910.7,646.6
+12,Mechanical engineering,Other mechanical engineering,2014,0.7,960.3,681.8
+12,Mechanical engineering,Other mechanical engineering,2015,0.7,844.4,599.5
+12,Mechanical engineering,Other mechanical engineering,2016,0.7,1030.6,731.8
+12,Mechanical engineering,Other mechanical engineering,2017,0.7,1035.0,734.9
+13,Mechanical engineering,Industrial and process plant,1996,1.0,256.0,256.0
+13,Mechanical engineering,Industrial and process plant,1997,1.0,299.9,299.9
+13,Mechanical engineering,Industrial and process plant,1998,1.0,222.8,222.8
+13,Mechanical engineering,Industrial and process plant,1999,1.0,199.7,199.7
+13,Mechanical engineering,Industrial and process plant,2000,1.0,214.5,214.5
+13,Mechanical engineering,Industrial and process plant,2001,1.0,211.5,211.5
+13,Mechanical engineering,Industrial and process plant,2002,1.0,188.7,188.7
+13,Mechanical engineering,Industrial and process plant,2003,1.0,193.6,193.6
+13,Mechanical engineering,Industrial and process plant,2004,1.0,207.5,207.5
+13,Mechanical engineering,Industrial and process plant,2005,1.0,185.1,185.1
+13,Mechanical engineering,Industrial and process plant,2006,1.0,177.4,177.4
+13,Mechanical engineering,Industrial and process plant,2007,1.0,199.2,199.2
+13,Mechanical engineering,Industrial and process plant,2008,1.0,288.9,288.9
+13,Mechanical engineering,Industrial and process plant,2009,1.0,209.1,209.1
+13,Mechanical engineering,Industrial and process plant,2010,1.0,189.0,189.0
+13,Mechanical engineering,Industrial and process plant,2011,1.0,194.0,194.0
+13,Mechanical engineering,Industrial and process plant,2012,1.0,173.2,173.2
+13,Mechanical engineering,Industrial and process plant,2013,1.0,160.5,160.5
+13,Mechanical engineering,Industrial and process plant,2014,1.0,155.9,155.9
+13,Mechanical engineering,Industrial and process plant,2015,1.0,215.8,215.8
+13,Mechanical engineering,Industrial and process plant,2016,1.0,220.2,220.2
+13,Mechanical engineering,Industrial and process plant,2017,1.0,226.4,226.4
+14,Construction,Construction and fabricated constructional steelwork,1996,1.0,381.1,381.1
+14,Construction,Construction and fabricated constructional steelwork,1997,1.0,381.5,381.5
+14,Construction,Construction and fabricated constructional steelwork,1998,1.0,377.3,377.3
+14,Construction,Construction and fabricated constructional steelwork,1999,1.0,341.1,341.1
+14,Construction,Construction and fabricated constructional steelwork,2000,1.0,342.5,342.5
+14,Construction,Construction and fabricated constructional steelwork,2001,1.0,404.8,404.8
+14,Construction,Construction and fabricated constructional steelwork,2002,1.0,368.7,368.7
+14,Construction,Construction and fabricated constructional steelwork,2003,1.0,399.7,399.7
+14,Construction,Construction and fabricated constructional steelwork,2004,1.0,410.1,410.1
+14,Construction,Construction and fabricated constructional steelwork,2005,1.0,401.4,401.4
+14,Construction,Construction and fabricated constructional steelwork,2006,1.0,433.7,433.7
+14,Construction,Construction and fabricated constructional steelwork,2007,1.0,464.9,464.9
+14,Construction,Construction and fabricated constructional steelwork,2008,1.0,477.6,477.6
+14,Construction,Construction and fabricated constructional steelwork,2009,1.0,357.1,357.1
+14,Construction,Construction and fabricated constructional steelwork,2010,1.0,366.7,366.7
+14,Construction,Construction and fabricated constructional steelwork,2011,1.0,357.2,357.2
+14,Construction,Construction and fabricated constructional steelwork,2012,1.0,295.5,295.5
+14,Construction,Construction and fabricated constructional steelwork,2013,1.0,303.9,303.9
+14,Construction,Construction and fabricated constructional steelwork,2014,1.0,313.0,313.0
+14,Construction,Construction and fabricated constructional steelwork,2015,1.0,350.0,350.0
+14,Construction,Construction and fabricated constructional steelwork,2016,1.0,376.1,376.1
+14,Construction,Construction and fabricated constructional steelwork,2017,1.0,382.3,382.3
+15a,Transport,Motor vehicles: BIW,1996,0.9,19.8,17.3
+15a,Transport,Motor vehicles: BIW,1997,0.9,15.6,13.6
+15a,Transport,Motor vehicles: BIW,1998,0.9,15.8,13.8
+15a,Transport,Motor vehicles: BIW,1999,0.9,6.8,5.9
+15a,Transport,Motor vehicles: BIW,2000,0.9,11.6,10.1
+15a,Transport,Motor vehicles: BIW,2001,0.9,11.9,10.3
+15a,Transport,Motor vehicles: BIW,2002,0.9,10.5,9.2
+15a,Transport,Motor vehicles: BIW,2003,0.9,8.3,7.2
+15a,Transport,Motor vehicles: BIW,2004,0.9,7.1,6.2
+15a,Transport,Motor vehicles: BIW,2005,0.9,5.4,4.7
+15a,Transport,Motor vehicles: BIW,2006,0.9,7.1,6.2
+15a,Transport,Motor vehicles: BIW,2007,0.9,7.5,6.5
+15a,Transport,Motor vehicles: BIW,2008,0.9,7.5,6.5
+15a,Transport,Motor vehicles: BIW,2009,0.9,4.6,4.0
+15a,Transport,Motor vehicles: BIW,2010,0.9,4.5,3.9
+15a,Transport,Motor vehicles: BIW,2011,0.9,4.2,3.6
+15a,Transport,Motor vehicles: BIW,2012,0.9,13.0,11.3
+15a,Transport,Motor vehicles: BIW,2013,0.9,57.9,50.4
+15a,Transport,Motor vehicles: BIW,2014,0.9,10.5,9.2
+15a,Transport,Motor vehicles: BIW,2015,0.9,8.0,7.0
+15a,Transport,Motor vehicles: BIW,2016,0.9,9.2,8.0
+15a,Transport,Motor vehicles: BIW,2017,0.9,10.9,9.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,1996,0.4,902.4,397.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,1997,0.4,965.6,424.9
+15b,Transport,Motor vehicles: drivetrain and trimmings,1998,0.4,989.5,435.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,1999,0.4,983.3,432.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,2000,0.4,1201.4,528.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,2001,0.4,1050.9,462.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,2002,0.4,1029.8,453.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,2003,0.4,1086.6,478.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,2004,0.4,1058.5,465.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,2005,0.4,991.8,436.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,2006,0.4,1085.7,477.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,2007,0.4,959.4,422.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,2008,0.4,860.7,378.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,2009,0.4,591.5,260.3
+15b,Transport,Motor vehicles: drivetrain and trimmings,2010,0.4,669.7,294.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,2011,0.4,732.1,322.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,2012,0.4,724.4,318.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,2013,0.4,687.5,302.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,2014,0.4,653.4,287.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,2015,0.4,730.8,321.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,2016,0.4,771.2,339.3
+15b,Transport,Motor vehicles: drivetrain and trimmings,2017,0.4,765.0,336.6
+16,Transport,Other transport,1996,0.6,1360.2,788.9
+16,Transport,Other transport,1997,0.6,1502.4,871.4
+16,Transport,Other transport,1998,0.6,1576.9,914.6
+16,Transport,Other transport,1999,0.6,1798.0,1042.9
+16,Transport,Other transport,2000,0.6,1718.4,996.7
+16,Transport,Other transport,2001,0.6,1440.6,835.5
+16,Transport,Other transport,2002,0.6,1690.4,980.4
+16,Transport,Other transport,2003,0.6,1825.9,1059.0
+16,Transport,Other transport,2004,0.6,1943.3,1127.1
+16,Transport,Other transport,2005,0.6,2039.7,1183.0
+16,Transport,Other transport,2006,0.6,1928.8,1118.7
+16,Transport,Other transport,2007,0.6,2096.0,1215.7
+16,Transport,Other transport,2008,0.6,2007.1,1164.1
+16,Transport,Other transport,2009,0.6,1409.2,817.3
+16,Transport,Other transport,2010,0.6,1820.9,1056.1
+16,Transport,Other transport,2011,0.6,2140.4,1241.4
+16,Transport,Other transport,2012,0.6,2231.6,1294.3
+16,Transport,Other transport,2013,0.6,2354.5,1365.6
+16,Transport,Other transport,2014,0.6,2320.3,1345.8
+16,Transport,Other transport,2015,0.6,2450.2,1421.1
+16,Transport,Other transport,2016,0.6,2828.2,1640.3
+16,Transport,Other transport,2017,0.6,2697.1,1564.3
+20,Others,Other UK consumers,1996,0.6,1.5,0.9
+20,Others,Other UK consumers,1997,0.6,2.4,1.4
+20,Others,Other UK consumers,1998,0.6,10.1,6.0
+20,Others,Other UK consumers,1999,0.6,2.8,1.7
+20,Others,Other UK consumers,2000,0.6,1.6,0.9
+20,Others,Other UK consumers,2001,0.6,1.6,1.0
+20,Others,Other UK consumers,2002,0.6,1.1,0.7
+20,Others,Other UK consumers,2003,0.6,1.3,0.8
+20,Others,Other UK consumers,2004,0.6,1.4,0.9
+20,Others,Other UK consumers,2005,0.6,1.5,0.9
+20,Others,Other UK consumers,2006,0.6,1.3,0.8
+20,Others,Other UK consumers,2007,0.6,1.8,1.1
+20,Others,Other UK consumers,2008,0.6,2.2,1.3
+20,Others,Other UK consumers,2009,0.6,1.7,1.0
+20,Others,Other UK consumers,2010,0.6,1.9,1.1
+20,Others,Other UK consumers,2011,0.6,2.5,1.5
+20,Others,Other UK consumers,2012,0.6,2.2,1.3
+20,Others,Other UK consumers,2013,0.6,2.1,1.3
+20,Others,Other UK consumers,2014,0.6,2.2,1.3
+20,Others,Other UK consumers,2015,0.6,2.1,1.3
+20,Others,Other UK consumers,2016,0.6,2.4,1.4
+20,Others,Other UK consumers,2017,0.6,2.6,1.5
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",1996,1.0,79.5,79.5
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",1997,1.0,88.1,88.1
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",1998,1.0,96.9,96.9
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",1999,1.0,90.9,90.9
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2000,1.0,83.5,83.5
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2001,1.0,83.2,83.2
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2002,1.0,77.2,77.2
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2003,1.0,81.3,81.3
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2004,1.0,88.7,88.7
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2005,1.0,87.7,87.7
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2006,1.0,94.1,94.1
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2007,1.0,89.1,89.1
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2008,1.0,79.8,79.8
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2009,1.0,57.6,57.6
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2010,1.0,71.5,71.5
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2011,1.0,93.0,93.0
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2012,1.0,83.5,83.5
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2013,1.0,85.3,85.3
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2014,1.0,89.7,89.7
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2015,1.0,83.7,83.7
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2016,1.0,83.1,83.1
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",2017,1.0,99.5,99.5
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",1996,0.8,123.7,105.1
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",1997,0.8,131.6,111.9
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",1998,0.8,141.4,120.2
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",1999,0.8,328.0,278.8
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2000,0.8,244.3,207.7
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2001,0.8,357.8,304.2
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2002,0.8,140.0,119.0
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2003,0.8,147.4,125.3
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2004,0.8,142.4,121.0
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2005,0.8,155.7,132.3
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2006,0.8,148.0,125.8
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2007,0.8,139.9,118.9
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2008,0.8,137.3,116.7
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2009,0.8,154.6,131.4
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2010,0.8,134.6,114.4
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2011,0.8,139.2,118.3
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2012,0.8,137.3,116.7
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2013,0.8,125.4,106.6
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2014,0.8,126.5,107.5
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2015,0.8,123.0,104.6
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2016,0.8,101.4,86.2
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",2017,0.8,96.1,81.7
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,1996,1.0,130.4,130.4
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,1997,1.0,142.2,142.2
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,1998,1.0,108.0,108.0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,1999,1.0,99.1,99.1
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2000,1.0,118.8,118.8
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2001,1.0,104.7,104.7
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2002,1.0,106.4,106.4
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2003,1.0,109.3,109.3
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2004,1.0,119.0,119.0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2005,1.0,111.4,111.4
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2006,1.0,107.7,107.7
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2007,1.0,115.7,115.7
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2008,1.0,115.4,115.4
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2009,1.0,88.5,88.5
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2010,1.0,109.7,109.7
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2011,1.0,106.7,106.7
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2012,1.0,116.3,116.3
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2013,1.0,114.0,114.0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2014,1.0,101.9,101.9
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2015,1.0,96.0,96.0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2016,1.0,94.0,94.0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,2017,1.0,113.8,113.8
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",1996,0.6,288.4,173.1
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",1997,0.6,658.3,395.0
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",1998,0.6,355.0,213.0
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",1999,0.6,324.4,194.6
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2000,0.6,281.5,168.9
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2001,0.6,308.8,185.3
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2002,0.6,327.5,196.5
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2003,0.6,344.0,206.4
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2004,0.6,367.5,220.5
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2005,0.6,485.6,291.4
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2006,0.6,383.6,230.2
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2007,0.6,435.9,261.6
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2008,0.6,395.9,237.6
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2009,0.6,311.5,186.9
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2010,0.6,362.1,217.3
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2011,0.6,350.3,210.2
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2012,0.6,298.2,178.9
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2013,0.6,313.6,188.2
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2014,0.6,322.9,193.7
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2015,0.6,282.7,169.6
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2016,0.6,295.1,177.0
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",2017,0.6,314.7,188.8
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",1996,0.3,1168.4,350.5
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",1997,0.3,1593.2,477.9
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",1998,0.3,2083.5,625.1
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",1999,0.3,1670.4,501.1
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2000,0.3,2243.4,673.0
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2001,0.3,1532.1,459.6
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2002,0.3,1316.3,394.9
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2003,0.3,1413.5,424.1
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2004,0.3,1369.9,411.0
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2005,0.3,1454.2,436.3
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2006,0.3,1356.3,406.9
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2007,0.3,1300.4,390.1
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2008,0.3,1272.0,381.6
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2009,0.3,891.2,267.4
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2010,0.3,1006.7,302.0
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2011,0.3,1048.5,314.5
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2012,0.3,1011.2,303.4
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2013,0.3,951.5,285.5
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2014,0.3,953.6,286.1
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2015,0.3,902.4,270.7
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2016,0.3,906.4,271.9
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",2017,0.3,952.6,285.8
+9,Mechanical engineering,Agricultural machinery,1996,0.8,331.3,281.6
+9,Mechanical engineering,Agricultural machinery,1997,0.8,343.0,291.6
+9,Mechanical engineering,Agricultural machinery,1998,0.8,343.6,292.1
+9,Mechanical engineering,Agricultural machinery,1999,0.8,307.5,261.4
+9,Mechanical engineering,Agricultural machinery,2000,0.8,268.4,228.2
+9,Mechanical engineering,Agricultural machinery,2001,0.8,252.6,214.7
+9,Mechanical engineering,Agricultural machinery,2002,0.8,251.6,213.9
+9,Mechanical engineering,Agricultural machinery,2003,0.8,271.1,230.5
+9,Mechanical engineering,Agricultural machinery,2004,0.8,260.9,221.8
+9,Mechanical engineering,Agricultural machinery,2005,0.8,282.3,239.9
+9,Mechanical engineering,Agricultural machinery,2006,0.8,268.8,228.5
+9,Mechanical engineering,Agricultural machinery,2007,0.8,268.0,227.8
+9,Mechanical engineering,Agricultural machinery,2008,0.8,284.0,241.4
+9,Mechanical engineering,Agricultural machinery,2009,0.8,230.2,195.6
+9,Mechanical engineering,Agricultural machinery,2010,0.8,256.5,218.1
+9,Mechanical engineering,Agricultural machinery,2011,0.8,310.4,263.8
+9,Mechanical engineering,Agricultural machinery,2012,0.8,337.0,286.4
+9,Mechanical engineering,Agricultural machinery,2013,0.8,316.0,268.6
+9,Mechanical engineering,Agricultural machinery,2014,0.8,299.8,254.8
+9,Mechanical engineering,Agricultural machinery,2015,0.8,267.4,227.3
+9,Mechanical engineering,Agricultural machinery,2016,0.8,281.9,239.7
+9,Mechanical engineering,Agricultural machinery,2017,0.8,306.3,260.3
