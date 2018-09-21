@@ -1,298 +1,305 @@
-HS2,HS4,HS description,sector_code
-73 - Articles of iron or steel,73--,HS2 Below Threshold Trade,14
-,7301,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel",
-,7302,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers ""cross-ties"", fish-plate.",
-,7303,"Tubes, pipes and hollow profiles, of cast iron",
-,7304,"Tubes, pipes and hollow profiles, seamless, of iron or steel (excl. products of cast iron)",
-,7305,"Tubes and pipes, having circular cross-sections and an external diameter of > 406,4 mm, of flat-rolled products of iron or steel ""e.g., welded, riveted or similarly closed""",
-,7306,"Tubes, pipes and hollow profiles ""e.g., open seam or welded, riveted or similarly closed"", of iron or steel (excl. of cast iron, seamless tubes and pipes and tubes having internal and external circular cross-sections a.",
-,7307,"Tube or pipe fittings ""e.g. couplings, elbows, sleeves"", of iron or steel",
-,7308,"Structures and parts of structures ""e.g., bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, p.",14
-,7309,"Reservoirs, tanks, vats and similar containers, of iron or steel, for any material ""other than compressed or liquefied gas"", of a capacity of > 300 l, not fitted with mechanical or thermal equipment, whether or not lin.",6
-,7310,"Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, for any material ""other than compressed or liquefied gas"", of a capacity of <= 300 l, not fitted with mechanical or thermal equipment, whether .",6
-,7311,"Containers of iron or steel, for compressed or liquefied gas (excl. containers specifically constructed or equipped for one or more types of transport)",6
-,7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel (excl. electrically insulated products and twisted fencing wire and barbed wire)",14
-,7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel",14
-,7314,"Cloth, incl. endless bands, grill, netting and fencing, of iron or steel wire, expanded metal of iron or steel (excl. woven products of metal fibres of a kind used for cladding, lining or similar purposes)",14
-,7315,"Chain and parts thereof, or iron or steel (excl. watch chains, necklace chains and the like, cutting and saw chain, skid chain, scraper chain for conveyors, toothed chain for textile machinery and the like, safety devi.",14
-,7316,"Anchors, grapnels and parts thereof, of iron or steel",14
-,7317,"Nails, tacks, drawing pins, corrugated nails, staples and similar articles of iron or steel, whether or not with heads of other material (excl. such articles with heads of copper and staples in strips)",4
-,7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers, incl. spring washers, and similar articles, of iron or steel (excl. lag screws, stoppers, plugs and the like, threaded)",4
-,7319,"Sewing needles, knitting needles, bodkins, crochet hoods, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, n.e.s.",4
-,7320,"Springs and leaves for springs, of iron or steel (excl. clock and watch springs, springs for sticks and handles of umbrellas or parasols, shock absorbers and torque rod or torsion bar springs of Section 17)",4
-,7321,"Stoves, ranges, grates, cookers, incl. those with subsidiary boilers for central heating, barbecues, braziers, gas rings, plate warmers and similar non-electric domestic appliances, and parts thereof of iron or steel (.",7
-,7322,"Radiators for central heating, non-electrically heated, and parts thereof, of iron or steel; air heaters and hot-air distributors, incl. distributors which can also distribute fresh or conditioned air, non-electrically.",12
-,7323,"Table, kitchen or other household articles, and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel (excl. cans, boxes and similar con.",7
-,7324,"Sanitary ware, and parts thereof, of iron or steel (excl. cans, boxes and similar containers of heading 7310, small wall cabinets for medical supplies or toiletries and other furniture of chapter 94, and fittings)",7
-,7325,"Articles of iron or steel, cast, n.e.s.",7
-,7326,"Articles of iron or steel, n.e.s. (excl. cast articles)",7
-"82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",82--,HS2 Below Threshold Trade,5
-,8201,"Hand tools, the following: spades, shovels, mattocks, picks, hoes, forks and rakes, of base metal; axes, billhooks and similar hewing tools, of base metal; poultry shears, secateurs and pruners of any kind, of base met.",5
-,8202,"Handsaws, with working parts of base metal (excl. power-operated saws); blades for saws of all kinds, incl. slitting, slotting or toothless saw blades, of base metal",5
-,8203,"Files, rasps, pliers, incl. cutting pliers, pincers and tweezers for non-medical use, metal-cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools, of base metal",5
-,8204,"Hand-operated spanners and wrenches, incl. torque meter wrenches (excl. tap wrenches), of base metal; interchangeable spanner sockets, with or without handles, of base metal",5
-,8205,"Hand tools, incl. glaziers' diamonds, of base metal, n.e.s.; blowlamps and the like; vices, clamps and the like (other than accessories for and parts of machine-tools or water-jet cutting machines); anvils; portable fo.",5
-,8206,"Sets of two or more tools of heading 8202 to 8205, put up in sets for retail sale",5
-,8207,"Tools, interchangeable, for hand tools, whether or not power-operated, or for machine tools ""e.g. for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving"", i.",5
-,8208,"Knives and cutting blades, of base metal, for machines or for mechanical appliances",5
-,8209,"Plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets",
-,8210,"Hand-operated mechanical devices, of base metal, weighing <= 10 kg, used in the preparation, conditioning or serving of food or drink",10
-,8211,"Knives with cutting blades, serrated or not, incl. pruning knives, and blades therefor, of base metal (excl. straw knives, machetes, knives and cutting blades for machines or mechanical appliances, fish knives, butter .",5
-,8212,"Non-electric razors and razor blades of base metal, incl. razor blade blanks in strips",5
-,8213,"Scissors, tailors' shears and similar shears, and blades therefor, of base metal (excl. hedge shears, two-handed pruning shears and similar two-handed shears, secateurs and similar one-handed pruners and shears and hoo.",5
-,8214,"Articles of cutlery, n.e.s., e.g. hair clippers, butchers' or kitchen cleavers, choppers and mincing knives and paperknives of base metal; manicure or pedicure sets and instruments, incl. nail files, of base metal",5
-,8215,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware of base metal (excl. lobster cutters and poultry shears of heading 8201 and 8213)",5
-83 - Miscellaneous articles of base metal,83--,HS2 Below Threshold Trade,7
-,8301,"Padlocks and locks ""key, combination or electrically operated"", of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal",5
-,8302,"Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat-racks, hat-pegs, brackets and sim.",7
-,8303,"Armoured or reinforced safes, strongboxes and doors and safe deposit lockers for strongrooms, cash or deed boxes and the like, of base metal",5
-,8304,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal (excl. office furniture of heading 9403 and waste paper bins)",7
-,8305,"Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal (excl. drawing pins and clasps for books or registers); staples in strips, e.",5
-,8306,"Bells, gongs and the like, non-electric, of base metal (excl. musical instruments); statuettes and other ornaments, of base metal (excl. works of art, collectors' pieces and antiques); photograph, picture or similar fr.",5
-,8307,"Flexible tubing of base metal, with or without fittings",
-,8308,"Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing, footwear, awnings, handbags, travel goods or other made-up articles, tubular or bifurca.",5
-,8309,"Stoppers, caps and lids, incl. crown corks, screw caps and pouring stoppers, capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal",5
-,8310,"Sign-plates, nameplates, address-plates and similar plates, numbers, letters and other symbols, of base metal, incl. traffic signs (excl. those of heading 9405, type and the like, and signal boards, signal discs and si.",7
-,8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carb.",
-"84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",84--,HS2 Below Threshold Trade,13
-,8401,"Nuclear reactors; fuel elements ""cartridges"", non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation; parts thereof",13
-,8402,Steam or other vapour generating boilers (excl. central heating hot water boilers capable also of producing low pressure steam); superheated water boilers; parts thereof,13
-,8403,"Central heating boilers, non-electric; parts thereof (excl. vapour generating boilers and superheated water boilers of heading 8402)",6
-,8404,"Auxiliary plant for use with boilers of heading 8402 or 8403, e.g. economizers, superheaters, soot removers and gas recoverers; condensers for steam or other vapour power units; parts thereof",6
-,8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers; parts thereof (excl. coke ovens, electrolytic p.",13
-,8406,Steam turbines and other vapour turbines; parts thereof,13
-,8407,Spark-ignition reciprocating or rotary internal combustion piston engine,12
-,8408,"Compression-ignition internal combustion piston engine ""diesel or semi-diesel engine""",12
-,8409,Parts suitable for use solely or principally with internal combustion piston engine of heading 8407 or 8408,12
-,8410,"Hydraulic turbines, water wheels, and regulators therefor (excl. hydraulic power engines and motors of heading 8412)",12
-,8411,"Turbojets, turbopropellers and other gas turbines",12
-,8412,"Engines and motors (excl. steam turbines, internal combustion piston engine, hydraulic turbines, water wheels, gas turbines and electric motors); parts thereof",12
-,8413,"Pumps for liquids, whether or not fitted with a measuring device (excl. ceramic pumps and secretion aspirating pumps for medical use and medical pumps carried on or implanted in the body); liquid elevators (excl. pumps.",12
-,8414,"Air or vacuum pumps (excl. gas compound elevators and pneumatic elevators and conveyors); air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; p.",12
-,8415,"Air conditioning machines comprising a motor-driven fan and elements for changing the temperature and humidity, incl. those machines in which the humidity cannot be separately regulated; parts thereof",8
-,8416,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, incl. their mechanical grates, mechanical ash dischargers and similar appliances; parts thereof",13
-,8417,"Industrial or laboratory furnaces and ovens, non-electric, incl. incinerators (excl. drying ovens and ovens for cracking operations)",13
-,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps; parts thereof (excl. air conditioning machines of heading 8415)",8
-,8419,"Machinery, plant or laboratory equipment whether or not electrically heated (excl. furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature suc.",13
-,8420,Calendering or other rolling machines (other than for metals or glass) and cylinders therefor; parts thereof,13
-,8421,"Centrifuges, incl. centrifugal dryers (excl. those for isotope separation); filtering or purifying machinery and apparatus, for liquids or gases; parts thereof (excl. artificial kidneys)",13
-,8422,"Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, .",8
-,8423,"Weighing machinery, incl. weight-operated counting or checking machines (excl. balances of a sensitivity of 5 cg or better); weighing machine weights of all kinds; parts thereof",5
-,8424,"Mechanical appliances, whether or not hand-operated, for projecting, dispersing or spraying liquids or powders, n.e.s.; fire extinguishers, charged or not (excl. fire-extinguishing bombs and grenades); spray guns and s.",8
-,8425,Pulley tackle and hoists (other than skip hoists); winches and capstans; jacks,12
-,8426,"Ships' derricks; cranes, incl. cable cranes (excl. wheel-mounted cranes and vehicle cranes for railways); mobile lifting frames, straddle carriers and works trucks fitted with a crane",11
-,8427,Fork-lift trucks; other works trucks fitted with lifting or handling equipment (excl. straddle carriers and works trucks fitted with a crane),11
-,8428,"Lifting, handling, loading or unloading machinery, e.g. lifts, escalators, conveyors, teleferics (excl. pulley tackle and hoists, winches and capstans, jacks, cranes of all kinds, mobile lifting frames and straddle car.",11
-,8429,"Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and roadrollers",11
-,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snowploughs and snowblowers (excl. those mounted on .",11
-,8431,"Parts suitable for use solely or principally with the machinery of heading 8425 to 8430, n.e.s.",11
-,8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation (excl. sprayers and dusters); lawn or sports-ground rollers; parts thereof",9
-,8433,"Harvesting or threshing machinery, incl. straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce; parts thereof (other than machines for cleaning.",9
-,8434,"Milking machines and dairy machinery (excl. refrigerating or heat treatment equipment, cream separators, clarifying centrifuges, filter presses and other filtering equipment); parts thereof",9
-,8435,"Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages (excl. machinery for the treatment of these beverages, incl. centrifuges, filter presses, other filterin.",9
-,8436,"Agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, incl. germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders; parts thereof",9
-,8437,"Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables (excl. farm-type machinery, heat.",9
-,8438,"Machinery, not specified or included elsewhere in this chapter, for the industrial preparation or manufacture of food or drink (other than machinery for the extraction or preparation of animal or fixed vegetable fats o.",11
-,8439,"Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard (excl. autoclaves, boilers, dryers, other heating appliances and calenders); parts thereof",12
-,8440,"Bookbinding machinery, incl. book-sewing machines (excl. machinery of heading 8441, general-purpose presses, printing machinery of heading 8443 and machines of uses ancillary to printing); parts thereof",12
-,8441,"Machinery for making up paper pulp, paper or paperboard, incl. cutting machines of all kinds, n.e.s.; parts thereof",12
-,8442,"Machinery, apparatus and equipment (other than the machines of headings 8456 to 8465) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cyl.",12
-,8443,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442 (excl. hectograph or stencil duplicating machines, addressing machines and other office printing machines.",12
-,8444,"Machines for extruding, drawing, texturing or cutting man-made textile materials",12
-,8445,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns (excl. machines of heading 8444); textile reeling or winding, incl. weft-winding, machines,.",12
-,8446,"Weaving machines ""looms""",12
-,8447,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting (excl. hem-stitching machines)",8
-,8448,"Auxiliary machinery for use with machines of heading 8444, 8445, 8446 or 8447, e.g. dobbies, jacquards, automatic stop motions, shuttle changing mechanisms; parts and accessories suitable for use solely or principally .",8
-,8449,"Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, incl. machinery for making felt hats; blocks for making hats; parts thereof (excl. machinery for preparing fibres for felt and .",8
-,8450,"Household or laundry-type washing machines, incl. machines which both wash and dry; parts thereof",8
-,8451,"Machinery (excl. of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing incl. fusing presses, bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made-up texti.",8
-,8452,"Sewing machines (other than book-sewing machines of heading 8440); furniture, bases and covers specially designed for sewing machines; sewing machine needles; parts thereof",8
-,8453,"Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather (excl. drying machines, spray guns, machines for the dehairing of pig.",8
-,8454,"Converters, ladles, ingot moulds and casting machines of a kind used in metallurgy or in metal foundries (excl. metal powder presses); parts thereof",13
-,8455,Metal-rolling mills and rolls therefor; parts of metal-rolling mills,13
-,8456,"Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutti.",10
-,8457,"Machining centres, unit construction machines ""single station"" and multi-station transfer machines for working metal",10
-,8458,"Lathes, incl. turning centres, for removing metal",10
-,8459,"Machine tools, incl. way-type unit head machines, for drilling, boring, milling, threading or tapping (excl. lathes and turning centres of heading 8458, gear cutting machines of heading 8461 and hand-operated machines)",10
-,8460,"Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products (excl. gear cutting, gear grinding or g.",10
-,8461,"Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine tools working by removing metal, sintered metal carbides or cermets, n.e.s.",10
-,8462,"Machine tools, incl. presses, for working metal by forging, hammering or die-stamping; machine tools, incl. presses, for working metal by bending, folding, straightening, flattening, shearing, punching or notching; pre.",10
-,8463,"Machine tools for working metal, sintered metal carbides or cermets, without removing material (excl. forging, bending, folding, straightening and flattening presses, shearing machines, punching or notching machines, p.",10
-,8464,"Machine tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass (excl. machines for working in the hand)",10
-,8465,"Machine tools, incl. machines for nailing, stapling, glueing or otherwise assembling, for working wood, cork, bone, hard rubber, hard plastics or similar hard materials (excl. machines for working in the hand)",10
-,8466,"Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465, incl. work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines,.",10
-,8467,"Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor; parts thereof",10
-,8468,"Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting (other than those of heading 8515); gas-operated surface tempering machines and appliances; parts thereof",12
-,8469,"Typewriters and word-processing machines (excl. automatic data-processing machines and units thereof of heading 8443 and laser, thermal and electrosensitive printers)",12
-,8470,"Calculating machines and pocket-size ""dimensions <= 170 mm x 100 mm x 45 mm"" data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuin.",8
-,8471,"Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, n.e.s.",8
-,8472,"Office machines, e.g. hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or coin-wrapping machines, pencil-sharpening machines, perforat.",8
-,8473,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of heading 8469 to 8472, n.e.s.",8
-,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid, incl. powder or paste, form; machinery for agglomerating, shaping .",8
-,8475,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware (excl. furnaces and heating apparatus for manufactur.",8
-,8476,"Automatic goods-vending machines, e.g. postage stamp, cigarette, food or beverage machines, incl. money-changing machines; parts thereof",8
-,8477,"Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this chapter, parts thereof",8
-,8478,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this chapter; parts thereof",8
-,8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter; parts thereof",8
-,8480,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics (excl. moulds of graphite or other carbons, cer.",6
-,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, incl. pressure-reducing valves and thermostatically controlled valves; parts thereof",10
-,8482,Ball or roller bearings (excl. steel balls of heading 7326); parts thereof,10
-,8483,"Transmission shafts, incl. camshafts and crankshafts, and cranks; bearing housings and plain shaft bearings for machines; gears and gearing; ball or roller screws, gear boxes and other speed changers, incl. torque conv.",12
-,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or.",12
-,8485,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this chapter",12
-,8486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus sp.",12
-,8487,"Machinery parts, n.e.s. in chapter 84 (excl. parts containing electrical connectors, insulators, coils, contacts or other electrical features)",12
-"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",85--,HS2 Below Threshold Trade,8
-,8501,Electric motors and generators (excl. generating sets),8
-,8502,Electric generating sets and rotary converters,8
-,8503,"Parts suitable for use solely or principally with electric motors and generators, electric generating sets and rotary converters, n.e.s.",8
-,8504,"Electrical transformers, static converters, e.g. rectifiers, and inductors; parts thereof",8
-,8505,"Electromagnets (excl. magnets for medical use); permanent magnets and articles intended to become permanent magnets after magnetization; electromagnetic or permanent magnet chucks, clamps and similar holding devices; e.",8
-,8506,"Primary cells and primary batteries, electrical; parts thereof (excl. spent)",8
-,8507,"Electric accumulators, incl. separators therefor, whether or not square or rectangular; parts thereof (excl. spent and those of unhardened rubber or textiles)",8
-,8508,"Vacuum cleaners, incl. dry cleaners and wet vacuum cleaners",8
-,8509,"Electromechanical domestic appliances, with self-contained electric motor; parts thereof (excl. vacuum cleaners, dry and wet vacuum cleaners)",8
-,8510,"Electric shavers, hair clippers and hair-removing appliances, with self-contained electric motor; parts thereof",8
-,8511,"Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines, e.g. ignition magnetos, magneto-dynamos, ignition coils, sparking plugs, glow plugs and s.",8
-,8512,"Electrical lighting or signalling equipment (excl. lamps of heading 8539), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles; parts thereof",8
-,8513,"Portable electric lamps designed to function by their own source of energy, e.g. dry batteries, accumulators and magnetos; parts thereof (excl. lighting equipment of heading 8512)",
-,8514,"Industrial or laboratory electric furnaces and ovens, incl. those functioning by induction or dielectric loss; other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric los.",13
-,8515,"Electric, incl. electrically heated gas, laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutt.",8
-,8516,"Electric instantaneous or storage water heaters and immersion heaters; electric space-heating apparatus and soil-heating apparatus; electro-thermic hairdressing apparatus, e.g. hairdryers, hair curlers and curling tong.",8
-,8517,"Telephone sets, incl. telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or w.",
-,8518,"Microphones and stands therefor (excl. cordless microphones with built-in transmitter); loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and.",
-,8519,Sound recording or sound reproducing apparatus,
-,8520,"Magnetic tape recorders and other sound recording apparatus, whether or not incorporating a sound reproducing device",8
-,8521,"Video recording or reproducing apparatus, whether or not incorporating a video tuner (excl. video camera recorders)",8
-,8522,Parts and accessories suitable for use solely or principally with sound reproducing and recording apparatus and with video equipment for recording and reproducing pictures and sound,8
-,8523,"Discs, tapes, solid-state non-volatile storage devices, ""smart cards"" and other media for the recording of sound or of other phenomena, whether or not recorded, incl. matrices and masters for the production of discs (e.",
-,8524,"Records, tapes and other recorded media for sound or other similarly recorded phenomena, including matrices and masters for the production of records, but excluding products of Chapter 37",8
-,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",8
-,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",8
-,8527,"Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock",8
-,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",
-,8529,"Parts suitable for use solely or principally with transmission and reception apparatus for radio-telephony, radio-telegraphy, radio-broadcasting, television, television cameras, still image video cameras and other vide.",8
-,8530,"Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (excl. mechanical or electromechanical equipment of headin.",8
-,8531,"Electric sound or visual signalling apparatus, e.g. bells, sirens, indicator panels, burglar or fire alarms (excl. those for cycles, motor vehicles and traffic signalling); parts thereof",8
-,8532,"Electrical capacitors, fixed, variable or adjustable ""pre-set""; parts thereof",8
-,8533,"Electrical resistors, incl. rheostats and potentiometers (excl. heating resistors); parts thereof",8
-,8534,Printed circuits,
-,8535,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits, e.g., switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and o.",8
-,8536,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits, e.g., switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and junction .",8
-,8537,"Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536, for electric control or the distribution of electricity, incl. those incorporating instruments or .",8
-,8538,"Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537, n.e.s.",8
-,8539,"Electric filament or discharge lamps, incl. sealed beam lamp units and ultraviolet or infra-red lamps; arc lamps; light-emitting diode ""LED"" lamps; parts thereof",
-,8540,"Thermionic, cold cathode or photo-cathode valves and tubes, e.g. vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode ray tubes and television camera tubes; parts thereof",
-,8541,"Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, incl. photovoltaic cells whether or not assembled in modules or made up into panels (excl. photovotaic generators); light emi.",
-,8542,Electronic integrated circuits; parts thereof,
-,8543,"Electrical machines and apparatus, having individual functions, n.e.s. in chapter 85 and parts thereof",
-,8544,"Insulated ""incl. enamelled or anodised"" wire, cable ""incl. coaxial cable"" and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, w.",
-,8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes",
-,8546,Electrical insulators of any material (excl. insulating fittings),
-,8547,"Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal, e.g., threaded sockets, incorporated during moulding solely f.",
-,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or .",
-"86 - Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical, including electro-mechanical, traffic signalling  equipment of all kinds",86--,HS2 Below Threshold Trade,16
-,8601,Rail locomotives powered from an external source of electricity or by electric accumulators,16
-,8602,Rail locomotives (excl. those powered from an external source of electricity or by accumulators); locomotive tenders,16
-,8603,"Self-propelled railway or tramway coaches, vans and trucks (excl. those of heading 8604)",16
-,8604,"Railway or tramway maintenance or service vehicles, whether or not self-propelled, e.g., workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles",16
-,8605,"Railway or tramway passenger coaches, luggage vans, post office coaches and other special purpose railway or tramway coaches (excl. self-propelled railway or tramway coaches, vans and trucks, railway or tramway mainten.",16
-,8606,Railway or tramway goods vans and wagons (excl. self-propelled and luggage vans and post office coaches),16
-,8607,"Parts of railway or tramway locomotives or rolling stock, n.e.s.",16
-,8608,"Railway or tramway track fixtures and fittings (excl. sleepers of wood, concrete or steel, sections of track and other track fixtures not yet assembled and railway or tramway track construction material); mechanical, i.",16
-,8609,"Containers, incl. containers for the transport of fluids, specially designed and equipped for carriage by one or more modes of transport",6
-"87 - Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof",87--,HS2 Below Threshold Trade,16
-,8701,Tractors (other than tractors of heading 8709),9
-,8702,"Motor vehicles for the transport of >= 10 persons, incl. driver",16
-,8703,"Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",16
-,8704,"Motor vehicles for the transport of goods, incl. chassis with engine and cab",16
-,8705,"Special purpose motor vehicles (other than those principally designed for the transport of persons or goods), e.g. breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries,.",16
-,8706,"Chassis fitted with engines, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transpor.",15b
-,8707,"Bodies, incl. cabs, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of good.",15a
-,8708,"Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of go.",15b
-,8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway.",11
-,8710,"Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles, n.e.s.",11
-,8711,"Motorcycles, incl. mopeds, and cycles fitted with an auxiliary motor, with or without side-cars; side-cars",16
-,8712,"Bicycles and other cycles, incl. delivery tricycles, not motorised",16
-,8713,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled (excl. specially designed motor vehicles and bicycles)",16
-,8714,"Parts and accessories for motorcycles and bicycles and for carriages for disabled persons, n.e.s.",16
-,8715,"Baby carriages and parts thereof, n.e.s.",16
-,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled (excl. railway and tramway vehicles); parts thereof, n.e.s.",16
-"88 - Aircraft, spacecraft, and parts thereof",88--,HS2 Below Threshold Trade,16
-,8801,"Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft",
-,8802,"Powered aircraft ""e.g. helicopters and aeroplanes""; spacecraft, incl. satellites, and suborbital and spacecraft launch vehicles",16
-,8803,"Parts of aircraft and spacecraft of heading 8801 or 8802, n.e.s.",16
-,8804,"Parachutes, incl. dirigible parachutes and paragliders, and rotochutes; parts thereof and accessories thereto, n.e.s.",
-,8805,"Aircraft launching gear (excl. motor winches for launching gliders); deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles, n.e.s.",16
-"89 - Ships, boats and floating structures",89--,HS2 Below Threshold Trade,16
-,8901,"Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods",16
-,8902,Fishing vessels; factory ships and other vessels for processing or preserving fishery products (excl. fishing boats for sport),16
-,8903,Yachts and other vessels for pleasure or sports; rowing boats and canoes,16
-,8904,Tugs and pusher craft,16
-,8905,"Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks, floating or submersible drilling or production platforms (excl. f.",16
-,8906,"Vessels, incl. warships and lifeboats (excl. rowing boats and other vessels of heading 8901 to 8905 and vessels for breaking up)",16
-,8907,"Rafts, tanks, coffer-dams, landing stages, buoys, beacons and other floating structures (excl. vessels of heading 8901 to 8906 and floating structures for breaking up)",16
-,8908,Vessels and other floating structures for breaking up,16
-91 - Clocks and watches and parts thereof,91--,HS2 Below Threshold Trade,20
-,9101,"Wrist-watches, pocket-watches and other watches, incl. stop-watches, with case of precious metal or of metal clad with precious metal (excl. with backs made of steel)",
-,9102,"Wrist-watches, pocket-watches and other watches, incl. stop-watches (excl. of precious metal or of metal clad with precious metal)",20
-,9103,"Clocks with watch movements (excl. wrist-watches, pocket-watches and other watches of heading 9101 or 9102, and instrument panel clocks and the like of heading 9104)",20
-,9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, vessels and other vehicles",20
-,9105,"Clocks (excl. wrist-watches, pocket-watches and other watches of heading 9101 or 9102, clocks with watch movements of heading 9103, and instrument panel clocks and the like of heading 9104)",20
-,9106,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor, e.g. time-registers and time recorders (excl. cl.",
-,9107,Time switches with clock or watch movement or with synchronous motor,
-,9108,"Watch movements, complete and assembled",
-,9109,"Clock movements, complete and assembled (excl. watch movements)",
-,9110,"Complete, unassembled or partly assembled watch or clock movements or movement sets; incomplete watch or clock movements, assembled; rough watch or clock movements",
-,9111,"Cases for wrist-watches, pocket-watches and other watches, incl. stop-watches, of heading 9101 or 9102, and parts thereof, n.e.s.",
-,9112,"Clock and watch cases and parts thereof, n.e.s. (excl. for wrist-watches, pocket-watches and other watches of heading 9101 or 9102)",
-,9113,"Watch straps, watch bands and watch bracelets, and parts thereof, n.e.s.",
-,9114,"Clock or watch parts, n.e.s.",20
-92 - Musical instruments; parts and accessories for such,92--,HS2 Below Threshold Trade,
-,9201,"Pianos, incl. automatic; harpsichords and other keyboard stringed instruments",
-,9202,"String musical instruments, e.g. guitars, violins, and harps (excl. with keyboard)",
-,9203,Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds,
-,9204,Accordions and similar instruments; mouth organs,
-,9205,"Wind musical instruments ""e.g. clarinets, trumpets, bagpipes, keyboard pipe organs, harmoniums and similar keyboard instruments with free metal reeds, accordions and similar instruments, mouth organs""",
-,9206,"Percussion musical instruments, e.g. drums, xylophones, cymbals, castanets, maracas",7
-,9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically, e.g. organs, guitars, accordions",
-,9208,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading in chapter 92; decoy calls of all kinds; whistles, c.",
-,9209,"Parts and accessories for musical instruments, e.g. mechanisms for musical boxes, cards, discs and rolls for mechanical instruments, n.e.s; metronomes, tuning forks and pitch pipes of all kinds",
-93 - Arms and ammunition; parts and accessoriesthereof,93--,HS2 Below Threshold Trade,7
-,9301,"Military weapons, incl. sub-machine guns (excl. revolvers and pistols of heading 9302 and cutting and thrusting weapons of heading 9307)",7
-,9302,Revolvers and pistols (excl. those of heading 9303 or 9304 and sub-machine guns for military purposes),7
-,9303,"Firearms and similar devices which operate by the firing of an explosive charge, e.g. sporting shotguns and rifles, muzzle-loading firearms, Very pistols and other devices designed to project signal flares only, pistol.",7
-,9304,"Spring, air or gas guns and pistols, truncheons and other non-firearms (excl. swords, cutlasses, bayonettes and similar arms of heading 9307)",7
-,9305,"Parts and accessories for weapons and the like of heading 9301 to 9304, n.e.s.",
-,9306,"Bombs, grenades, torpedos, mines, missiles, cartridges and other ammunition and projectiles and parts thereof, incl. buckshot, shot and cartridge wads, n.e.s.",
-,9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof, and scabbards and sheaths therefor (excl. of precious metal or of metal clad with precious metal, blunt weapons for fencing, hunting knives and da.",5
-"95 - Toys, games and sports requisites; parts and accessories thereof",95--,HS2 Below Threshold Trade,7
-,9501,"Wheeled toys designed to be ridden by children (for example, tricycles, scooters, pedal cars); dolls' carriages",7
-,9502,Dolls representing only human beings,
-,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size ""scale"" recreational models, working or not; puzzles of all kinds",7
-,9504,"Video game consoles and machines, articles for funfair, table or parlour games, incl. pintables, billiards, special tables for casino games and automatic bowling alley equipment",
-,9505,"Festival, carnival or other entertainment articles, incl. conjuring tricks and novelty jokes, n.e.s.",
-,9506,"Articles and equipment for general physical exercise, gymnastics, athletics, other sports, incl. table-tennis, or outdoor games, not specified or included in this chapter or elsewhere; swimming pools and paddling pools.",
-,9507,"Fishing rods, fish-hooks and other line fishing tackle n.e.s; fish landing nets, butterfly nets and similar nets; decoys and similar hunting or shooting requisites (excl. those of heading 9208 and 9705)",
-,9508,"Roundabouts, swings, shooting galleries and other fairground amusements; travelling circuses and travelling menageries; travelling theatres (excl. booths, incl. the goods on sale, goods for distribution as prizes, gami.",
-96 - Miscellaneous manufactured articles,96--,HS2 Below Threshold Trade,
-,9601,"Worked ivory, bone, tortoiseshell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these material, incl. articles obtained by moulding, n.e.s.",
-,9602,"Worked vegetable or mineral carving material and articles of these materials n.e.s; moulded or carved articles of wax, of paraffin, of stearin, of natural gums or natural resins or of modelling pastes, and other moulde.",
-,9603,"Brooms, brushes, incl. brushes constituting parts of machines, appliances or vehicles, hand-operated mechanical floor sweepers, not motorised, mops and leather dusters; prepared knots and tufts for broom or brush makin.",
-,9604,Hand sieves and hand riddles (excl. colanders),
-,9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning (excl. manicure sets)",
-,9606,"Buttons, press-fasteners, snap-fasteners and press studs, button moulds and other parts of these articles; button blanks (excl. cuff links)",
-,9607,Slide fasteners and parts thereof,
-,9608,"Ball-point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding pencils; pen-holders, pencil-holders and similar holders; .",
-,9609,"Pencils, crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks (excl. articles of heading 9608)",
-,9610,"Slates and boards, with writing or drawing surfaces, whether or not framed",
-,9611,"Hand-operated date, sealing or numbering stamps, and the like; hand-operated composing sticks and hand printing sets",
-,9612,"Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes",
-,9613,"Cigarette lighters and other lighters, whether or not mechanical or electrical and parts thereof, n.e.s. (excl. fuses and primers for propellent powders and explosives of heading 3603)",
-,9614,"Smoking pipes, incl. pipe bowls, cigar or cigarette holders, and parts thereof, n.e.s.",
-,9615,"Combs, hair-slides and the like; hairpins; curling pins, curling grips, hair-curlers and the like, and parts thereof, n.e.s. (excl. electro-thermic appliances of heading 8516)",
-,9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor; powder puffs and pads for the application of cosmetics or toilet preparations",
-,9617,"Vacuum flasks and other vacuum vessels, and parts thereof (excl. glass inners)",
-,9618,"Tailors' dummies and other lay figures, automata and other animated displays used for shop window dressing (excl. the articles actually on display, educational models and toy dolls)",
-,9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies, and similar articles, of any material",
-,9620,"Monopods, bipods, tripods and similar articles",
+HS2,HS4,HS description,sector_code,stage,multiplier
+73 - Articles of iron or steel,73--,HS2 Below Threshold Trade,14,final,1
+,7301,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel",,,
+,7302,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers ""cross-ties"", fish-plate.",,,
+,7303,"Tubes, pipes and hollow profiles, of cast iron",,,
+,7304,"Tubes, pipes and hollow profiles, seamless, of iron or steel (excl. products of cast iron)",,,
+,7305,"Tubes and pipes, having circular cross-sections and an external diameter of > 406,4 mm, of flat-rolled products of iron or steel ""e.g., welded, riveted or similarly closed""",,,
+,7306,"Tubes, pipes and hollow profiles ""e.g., open seam or welded, riveted or similarly closed"", of iron or steel (excl. of cast iron, seamless tubes and pipes and tubes having internal and external circular cross-sections a.",,,
+,7307,"Tube or pipe fittings ""e.g. couplings, elbows, sleeves"", of iron or steel",,,
+,7308,"Structures and parts of structures ""e.g., bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, p.",14,final,1
+,7309,"Reservoirs, tanks, vats and similar containers, of iron or steel, for any material ""other than compressed or liquefied gas"", of a capacity of > 300 l, not fitted with mechanical or thermal equipment, whether or not lin.",13,final,1
+,7310,"Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, for any material ""other than compressed or liquefied gas"", of a capacity of <= 300 l, not fitted with mechanical or thermal equipment, whether .",6,final,1
+,7311,"Containers of iron or steel, for compressed or liquefied gas (excl. containers specifically constructed or equipped for one or more types of transport)",6,final,1
+,7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel (excl. electrically insulated products and twisted fencing wire and barbed wire)",14,final,1
+,7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel",14,final,1
+,7314,"Cloth, incl. endless bands, grill, netting and fencing, of iron or steel wire, expanded metal of iron or steel (excl. woven products of metal fibres of a kind used for cladding, lining or similar purposes)",14,final,1
+,7315,"Chain and parts thereof, or iron or steel (excl. watch chains, necklace chains and the like, cutting and saw chain, skid chain, scraper chain for conveyors, toothed chain for textile machinery and the like, safety devi.",4,final,1
+,7316,"Anchors, grapnels and parts thereof, of iron or steel",4,final,1
+,7317,"Nails, tacks, drawing pins, corrugated nails, staples and similar articles of iron or steel, whether or not with heads of other material (excl. such articles with heads of copper and staples in strips)",4,final,1
+,7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers, incl. spring washers, and similar articles, of iron or steel (excl. lag screws, stoppers, plugs and the like, threaded)",4,component,1
+,7319,"Sewing needles, knitting needles, bodkins, crochet hoods, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, n.e.s.",4,final,1
+,7320,"Springs and leaves for springs, of iron or steel (excl. clock and watch springs, springs for sticks and handles of umbrellas or parasols, shock absorbers and torque rod or torsion bar springs of Section 17)",4,final,1
+,7321,"Stoves, ranges, grates, cookers, incl. those with subsidiary boilers for central heating, barbecues, braziers, gas rings, plate warmers and similar non-electric domestic appliances, and parts thereof of iron or steel (.",7,final,1
+,7322,"Radiators for central heating, non-electrically heated, and parts thereof, of iron or steel; air heaters and hot-air distributors, incl. distributors which can also distribute fresh or conditioned air, non-electrically.",12,final,1
+,7323,"Table, kitchen or other household articles, and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel (excl. cans, boxes and similar con.",7,final,1
+,7324,"Sanitary ware, and parts thereof, of iron or steel (excl. cans, boxes and similar containers of heading 7310, small wall cabinets for medical supplies or toiletries and other furniture of chapter 94, and fittings)",7,final,1
+,7325,"Articles of iron or steel, cast, n.e.s.",,,
+,7326,"Articles of iron or steel, n.e.s. (excl. cast articles)",7,component,1
+"82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",82--,HS2 Below Threshold Trade,5,final,1
+,8201,"Hand tools, the following: spades, shovels, mattocks, picks, hoes, forks and rakes, of base metal; axes, billhooks and similar hewing tools, of base metal; poultry shears, secateurs and pruners of any kind, of base met.",5,final,1
+,8202,"Handsaws, with working parts of base metal (excl. power-operated saws); blades for saws of all kinds, incl. slitting, slotting or toothless saw blades, of base metal",5,final,1
+,8203,"Files, rasps, pliers, incl. cutting pliers, pincers and tweezers for non-medical use, metal-cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools, of base metal",5,final,1
+,8204,"Hand-operated spanners and wrenches, incl. torque meter wrenches (excl. tap wrenches), of base metal; interchangeable spanner sockets, with or without handles, of base metal",5,final,1
+,8205,"Hand tools, incl. glaziers' diamonds, of base metal, n.e.s.; blowlamps and the like; vices, clamps and the like (other than accessories for and parts of machine-tools or water-jet cutting machines); anvils; portable fo.",5,final,1
+,8206,"Sets of two or more tools of heading 8202 to 8205, put up in sets for retail sale",5,final,1
+,8207,"Tools, interchangeable, for hand tools, whether or not power-operated, or for machine tools ""e.g. for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving"", i.",5,final,1
+,8208,"Knives and cutting blades, of base metal, for machines or for mechanical appliances",5,final,1
+,8209,"Plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets",,,
+,8210,"Hand-operated mechanical devices, of base metal, weighing <= 10 kg, used in the preparation, conditioning or serving of food or drink",6,final,1
+,8211,"Knives with cutting blades, serrated or not, incl. pruning knives, and blades therefor, of base metal (excl. straw knives, machetes, knives and cutting blades for machines or mechanical appliances, fish knives, butter .",5,final,1
+,8212,"Non-electric razors and razor blades of base metal, incl. razor blade blanks in strips",5,final,1
+,8213,"Scissors, tailors' shears and similar shears, and blades therefor, of base metal (excl. hedge shears, two-handed pruning shears and similar two-handed shears, secateurs and similar one-handed pruners and shears and hoo.",5,final,1
+,8214,"Articles of cutlery, n.e.s., e.g. hair clippers, butchers' or kitchen cleavers, choppers and mincing knives and paperknives of base metal; manicure or pedicure sets and instruments, incl. nail files, of base metal",5,final,1
+,8215,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware of base metal (excl. lobster cutters and poultry shears of heading 8201 and 8213)",5,final,1
+83 - Miscellaneous articles of base metal,83--,HS2 Below Threshold Trade,7,final,1
+,8301,"Padlocks and locks ""key, combination or electrically operated"", of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal",5,final,1
+,8302,"Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat-racks, hat-pegs, brackets and sim.",7,component,1
+,8303,"Armoured or reinforced safes, strongboxes and doors and safe deposit lockers for strongrooms, cash or deed boxes and the like, of base metal",7,final,1
+,8304,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal (excl. office furniture of heading 9403 and waste paper bins)",7,final,1
+,8305,"Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal (excl. drawing pins and clasps for books or registers); staples in strips, e.",5,final,1
+,8306,"Bells, gongs and the like, non-electric, of base metal (excl. musical instruments); statuettes and other ornaments, of base metal (excl. works of art, collectors' pieces and antiques); photograph, picture or similar fr.",5,final,1
+,8307,"Flexible tubing of base metal, with or without fittings",,,
+,8308,"Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing, footwear, awnings, handbags, travel goods or other made-up articles, tubular or bifurca.",5,final,1
+,8309,"Stoppers, caps and lids, incl. crown corks, screw caps and pouring stoppers, capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal",7,final,1
+,8310,"Sign-plates, nameplates, address-plates and similar plates, numbers, letters and other symbols, of base metal, incl. traffic signs (excl. those of heading 9405, type and the like, and signal boards, signal discs and si.",7,final,1
+,8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carb.",,,
+"84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",84--,HS2 Below Threshold Trade,13,final,1
+,8401,"Nuclear reactors; fuel elements ""cartridges"", non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation; parts thereof",13,final,1
+,8402,Steam or other vapour generating boilers (excl. central heating hot water boilers capable also of producing low pressure steam); superheated water boilers; parts thereof,13,final,1
+,8403,"Central heating boilers, non-electric; parts thereof (excl. vapour generating boilers and superheated water boilers of heading 8402)",7,final,1
+,8404,"Auxiliary plant for use with boilers of heading 8402 or 8403, e.g. economizers, superheaters, soot removers and gas recoverers; condensers for steam or other vapour power units; parts thereof",13,final,1
+,8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers; parts thereof (excl. coke ovens, electrolytic p.",13,final,1
+,8406,Steam turbines and other vapour turbines; parts thereof,13,component,1
+,8407,Spark-ignition reciprocating or rotary internal combustion piston engine,15b,final,1
+,8408,"Compression-ignition internal combustion piston engine ""diesel or semi-diesel engine""",15b,final,1
+,8409,Parts suitable for use solely or principally with internal combustion piston engine of heading 8407 or 8408,15b,component,1
+,8410,"Hydraulic turbines, water wheels, and regulators therefor (excl. hydraulic power engines and motors of heading 8412)",12,final,1
+,8411,"Turbojets, turbopropellers and other gas turbines",12,final,1
+,8412,"Engines and motors (excl. steam turbines, internal combustion piston engine, hydraulic turbines, water wheels, gas turbines and electric motors); parts thereof",12,component,1
+,8413,"Pumps for liquids, whether or not fitted with a measuring device (excl. ceramic pumps and secretion aspirating pumps for medical use and medical pumps carried on or implanted in the body); liquid elevators (excl. pumps.",12,final,1
+,8414,"Air or vacuum pumps (excl. gas compound elevators and pneumatic elevators and conveyors); air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; p.",12,final,1
+,8415,"Air conditioning machines comprising a motor-driven fan and elements for changing the temperature and humidity, incl. those machines in which the humidity cannot be separately regulated; parts thereof",8,final,1
+,8416,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, incl. their mechanical grates, mechanical ash dischargers and similar appliances; parts thereof",13,final,1
+,8417,"Industrial or laboratory furnaces and ovens, non-electric, incl. incinerators (excl. drying ovens and ovens for cracking operations)",13,final,1
+,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps; parts thereof (excl. air conditioning machines of heading 8415)",8,final,1
+,8419,"Machinery, plant or laboratory equipment whether or not electrically heated (excl. furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature suc.",13,final,1
+,8420,Calendering or other rolling machines (other than for metals or glass) and cylinders therefor; parts thereof,10,final,1
+,8421,"Centrifuges, incl. centrifugal dryers (excl. those for isotope separation); filtering or purifying machinery and apparatus, for liquids or gases; parts thereof (excl. artificial kidneys)",13,final,1
+,8422,"Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, .",8,final,1
+,8423,"Weighing machinery, incl. weight-operated counting or checking machines (excl. balances of a sensitivity of 5 cg or better); weighing machine weights of all kinds; parts thereof",5,final,1
+,8424,"Mechanical appliances, whether or not hand-operated, for projecting, dispersing or spraying liquids or powders, n.e.s.; fire extinguishers, charged or not (excl. fire-extinguishing bombs and grenades); spray guns and s.",7,final,1
+,8425,Pulley tackle and hoists (other than skip hoists); winches and capstans; jacks,12,final,1
+,8426,"Ships' derricks; cranes, incl. cable cranes (excl. wheel-mounted cranes and vehicle cranes for railways); mobile lifting frames, straddle carriers and works trucks fitted with a crane",11,final,1
+,8427,Fork-lift trucks; other works trucks fitted with lifting or handling equipment (excl. straddle carriers and works trucks fitted with a crane),11,final,1
+,8428,"Lifting, handling, loading or unloading machinery, e.g. lifts, escalators, conveyors, teleferics (excl. pulley tackle and hoists, winches and capstans, jacks, cranes of all kinds, mobile lifting frames and straddle car.",11,final,1
+,8429,"Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and roadrollers",11,final,1
+,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snowploughs and snowblowers (excl. those mounted on .",11,final,1
+,8431,"Parts suitable for use solely or principally with the machinery of heading 8425 to 8430, n.e.s.",11,component,1
+,8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation (excl. sprayers and dusters); lawn or sports-ground rollers; parts thereof",9,final,1
+,8433,"Harvesting or threshing machinery, incl. straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce; parts thereof (other than machines for cleaning.",9,final,1
+,8434,"Milking machines and dairy machinery (excl. refrigerating or heat treatment equipment, cream separators, clarifying centrifuges, filter presses and other filtering equipment); parts thereof",9,final,1
+,8435,"Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages (excl. machinery for the treatment of these beverages, incl. centrifuges, filter presses, other filterin.",9,final,1
+,8436,"Agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, incl. germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders; parts thereof",9,final,1
+,8437,"Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables (excl. farm-type machinery, heat.",9,final,1
+,8438,"Machinery, not specified or included elsewhere in this chapter, for the industrial preparation or manufacture of food or drink (other than machinery for the extraction or preparation of animal or fixed vegetable fats o.",12,final,1
+,8439,"Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard (excl. autoclaves, boilers, dryers, other heating appliances and calenders); parts thereof",12,final,1
+,8440,"Bookbinding machinery, incl. book-sewing machines (excl. machinery of heading 8441, general-purpose presses, printing machinery of heading 8443 and machines of uses ancillary to printing); parts thereof",12,final,1
+,8441,"Machinery for making up paper pulp, paper or paperboard, incl. cutting machines of all kinds, n.e.s.; parts thereof",12,final,1
+,8442,"Machinery, apparatus and equipment (other than the machines of headings 8456 to 8465) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cyl.",12,final,1
+,8443,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442 (excl. hectograph or stencil duplicating machines, addressing machines and other office printing machines.",12,final,1
+,8444,"Machines for extruding, drawing, texturing or cutting man-made textile materials",12,final,1
+,8445,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns (excl. machines of heading 8444); textile reeling or winding, incl. weft-winding, machines,.",12,final,1
+,8446,"Weaving machines ""looms""",12,final,1
+,8447,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting (excl. hem-stitching machines)",8,final,1
+,8448,"Auxiliary machinery for use with machines of heading 8444, 8445, 8446 or 8447, e.g. dobbies, jacquards, automatic stop motions, shuttle changing mechanisms; parts and accessories suitable for use solely or principally .",8,final,1
+,8449,"Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, incl. machinery for making felt hats; blocks for making hats; parts thereof (excl. machinery for preparing fibres for felt and .",8,final,1
+,8450,"Household or laundry-type washing machines, incl. machines which both wash and dry; parts thereof",8,final,1
+,8451,"Machinery (excl. of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing incl. fusing presses, bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made-up texti.",8,final,1
+,8452,"Sewing machines (other than book-sewing machines of heading 8440); furniture, bases and covers specially designed for sewing machines; sewing machine needles; parts thereof",8,final,1
+,8453,"Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather (excl. drying machines, spray guns, machines for the dehairing of pig.",8,final,1
+,8454,"Converters, ladles, ingot moulds and casting machines of a kind used in metallurgy or in metal foundries (excl. metal powder presses); parts thereof",13,final,1
+,8455,Metal-rolling mills and rolls therefor; parts of metal-rolling mills,13,final,1
+,8456,"Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutti.",10,final,1
+,8457,"Machining centres, unit construction machines ""single station"" and multi-station transfer machines for working metal",10,final,1
+,8458,"Lathes, incl. turning centres, for removing metal",10,final,1
+,8459,"Machine tools, incl. way-type unit head machines, for drilling, boring, milling, threading or tapping (excl. lathes and turning centres of heading 8458, gear cutting machines of heading 8461 and hand-operated machines)",10,final,1
+,8460,"Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products (excl. gear cutting, gear grinding or g.",10,final,1
+,8461,"Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine tools working by removing metal, sintered metal carbides or cermets, n.e.s.",10,final,1
+,8462,"Machine tools, incl. presses, for working metal by forging, hammering or die-stamping; machine tools, incl. presses, for working metal by bending, folding, straightening, flattening, shearing, punching or notching; pre.",10,final,1
+,8463,"Machine tools for working metal, sintered metal carbides or cermets, without removing material (excl. forging, bending, folding, straightening and flattening presses, shearing machines, punching or notching machines, p.",10,final,1
+,8464,"Machine tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass (excl. machines for working in the hand)",10,final,1
+,8465,"Machine tools, incl. machines for nailing, stapling, glueing or otherwise assembling, for working wood, cork, bone, hard rubber, hard plastics or similar hard materials (excl. machines for working in the hand)",10,final,1
+,8466,"Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465, incl. work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines,.",10,component,1
+,8467,"Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor; parts thereof",10,final,1
+,8468,"Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting (other than those of heading 8515); gas-operated surface tempering machines and appliances; parts thereof",12,final,1
+,8469,"Typewriters and word-processing machines (excl. automatic data-processing machines and units thereof of heading 8443 and laser, thermal and electrosensitive printers)",12,final,1
+,8470,"Calculating machines and pocket-size ""dimensions <= 170 mm x 100 mm x 45 mm"" data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuin.",8,final,1
+,8471,"Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, n.e.s.",8,final,1
+,8472,"Office machines, e.g. hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or coin-wrapping machines, pencil-sharpening machines, perforat.",8,final,1
+,8473,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of heading 8469 to 8472, n.e.s.",8,component,1
+,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid, incl. powder or paste, form; machinery for agglomerating, shaping .",8,final,1
+,8475,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware (excl. furnaces and heating apparatus for manufactur.",8,final,1
+,8476,"Automatic goods-vending machines, e.g. postage stamp, cigarette, food or beverage machines, incl. money-changing machines; parts thereof",8,final,1
+,8477,"Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this chapter, parts thereof",8,final,1
+,8478,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this chapter; parts thereof",8,final,1
+,8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter; parts thereof",8,final,1
+,8480,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics (excl. moulds of graphite or other carbons, cer.",6,final,1
+,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, incl. pressure-reducing valves and thermostatically controlled valves; parts thereof",10,final,1
+,8482,Ball or roller bearings (excl. steel balls of heading 7326); parts thereof,10,component,1
+,8483,"Transmission shafts, incl. camshafts and crankshafts, and cranks; bearing housings and plain shaft bearings for machines; gears and gearing; ball or roller screws, gear boxes and other speed changers, incl. torque conv.",15b,component,1
+,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or.",12,final,1
+,8485,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this chapter",12,component,1
+,8486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus sp.",12,final,1
+,8487,"Machinery parts, n.e.s. in chapter 84 (excl. parts containing electrical connectors, insulators, coils, contacts or other electrical features)",12,component,1
+"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",85--,HS2 Below Threshold Trade,8,final,1
+,8501,Electric motors and generators (excl. generating sets),8,final,1
+,8502,Electric generating sets and rotary converters,8,final,1
+,8503,"Parts suitable for use solely or principally with electric motors and generators, electric generating sets and rotary converters, n.e.s.",8,component,1
+,8504,"Electrical transformers, static converters, e.g. rectifiers, and inductors; parts thereof",8,final,1
+,8505,"Electromagnets (excl. magnets for medical use); permanent magnets and articles intended to become permanent magnets after magnetization; electromagnetic or permanent magnet chucks, clamps and similar holding devices; e.",8,final,1
+,8506,"Primary cells and primary batteries, electrical; parts thereof (excl. spent)",8,final,1
+,8507,"Electric accumulators, incl. separators therefor, whether or not square or rectangular; parts thereof (excl. spent and those of unhardened rubber or textiles)",8,final,1
+,8508,"Vacuum cleaners, incl. dry cleaners and wet vacuum cleaners",8,final,1
+,8509,"Electromechanical domestic appliances, with self-contained electric motor; parts thereof (excl. vacuum cleaners, dry and wet vacuum cleaners)",8,final,1
+,8510,"Electric shavers, hair clippers and hair-removing appliances, with self-contained electric motor; parts thereof",8,final,1
+,8511,"Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines, e.g. ignition magnetos, magneto-dynamos, ignition coils, sparking plugs, glow plugs and s.",8,final,1
+,8512,"Electrical lighting or signalling equipment (excl. lamps of heading 8539), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles; parts thereof",8,final,1
+,8513,"Portable electric lamps designed to function by their own source of energy, e.g. dry batteries, accumulators and magnetos; parts thereof (excl. lighting equipment of heading 8512)",,,
+,8514,"Industrial or laboratory electric furnaces and ovens, incl. those functioning by induction or dielectric loss; other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric los.",13,final,1
+,8515,"Electric, incl. electrically heated gas, laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutt.",8,final,1
+,8516,"Electric instantaneous or storage water heaters and immersion heaters; electric space-heating apparatus and soil-heating apparatus; electro-thermic hairdressing apparatus, e.g. hairdryers, hair curlers and curling tong.",8,final,1
+,8517,"Telephone sets, incl. telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or w.",,,
+,8518,"Microphones and stands therefor (excl. cordless microphones with built-in transmitter); loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and.",,,
+,8519,Sound recording or sound reproducing apparatus,,,
+,8520,"Magnetic tape recorders and other sound recording apparatus, whether or not incorporating a sound reproducing device",8,final,1
+,8521,"Video recording or reproducing apparatus, whether or not incorporating a video tuner (excl. video camera recorders)",8,final,1
+,8522,Parts and accessories suitable for use solely or principally with sound reproducing and recording apparatus and with video equipment for recording and reproducing pictures and sound,8,component,1
+,8523,"Discs, tapes, solid-state non-volatile storage devices, ""smart cards"" and other media for the recording of sound or of other phenomena, whether or not recorded, incl. matrices and masters for the production of discs (e.",,,
+,8524,"Records, tapes and other recorded media for sound or other similarly recorded phenomena, including matrices and masters for the production of records, but excluding products of ChapteråÊ37",8,final,1
+,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",8,final,1
+,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",8,final,1
+,8527,"Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock",8,final,1
+,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",,,
+,8529,"Parts suitable for use solely or principally with transmission and reception apparatus for radio-telephony, radio-telegraphy, radio-broadcasting, television, television cameras, still image video cameras and other vide.",8,component,1
+,8530,"Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (excl. mechanical or electromechanical equipment of headin.",8,final,1
+,8531,"Electric sound or visual signalling apparatus, e.g. bells, sirens, indicator panels, burglar or fire alarms (excl. those for cycles, motor vehicles and traffic signalling); parts thereof",8,final,1
+,8532,"Electrical capacitors, fixed, variable or adjustable ""pre-set""; parts thereof",8,final,1
+,8533,"Electrical resistors, incl. rheostats and potentiometers (excl. heating resistors); parts thereof",8,final,1
+,8534,Printed circuits,,,
+,8535,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits, e.g., switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and o.",8,final,1
+,8536,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits, e.g., switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and junction .",8,final,1
+,8537,"Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536, for electric control or the distribution of electricity, incl. those incorporating instruments or .",8,final,1
+,8538,"Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537, n.e.s.",8,component,1
+,8539,"Electric filament or discharge lamps, incl. sealed beam lamp units and ultraviolet or infra-red lamps; arc lamps; light-emitting diode ""LED"" lamps; parts thereof",,,
+,8540,"Thermionic, cold cathode or photo-cathode valves and tubes, e.g. vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode ray tubes and television camera tubes; parts thereof",,,
+,8541,"Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, incl. photovoltaic cells whether or not assembled in modules or made up into panels (excl. photovotaic generators); light emi.",,,
+,8542,Electronic integrated circuits; parts thereof,,,
+,8543,"Electrical machines and apparatus, having individual functions, n.e.s. in chapter 85 and parts thereof",,,
+,8544,"Insulated ""incl. enamelled or anodised"" wire, cable ""incl. coaxial cable"" and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, w.",,,
+,8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes",,,
+,8546,Electrical insulators of any material (excl. insulating fittings),,,
+,8547,"Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal, e.g., threaded sockets, incorporated during moulding solely f.",,,
+,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or .",,,
+"86 - Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical, including electro-mechanical, traffic signalling  equipment of all kinds",86--,HS2 Below Threshold Trade,16,final,1
+,8601,Rail locomotives powered from an external source of electricity or by electric accumulators,16,final,1
+,8602,Rail locomotives (excl. those powered from an external source of electricity or by accumulators); locomotive tenders,16,final,1
+,8603,"Self-propelled railway or tramway coaches, vans and trucks (excl. those of heading 8604)",16,final,1
+,8604,"Railway or tramway maintenance or service vehicles, whether or not self-propelled, e.g., workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles",16,final,1
+,8605,"Railway or tramway passenger coaches, luggage vans, post office coaches and other special purpose railway or tramway coaches (excl. self-propelled railway or tramway coaches, vans and trucks, railway or tramway mainten.",16,final,1
+,8606,Railway or tramway goods vans and wagons (excl. self-propelled and luggage vans and post office coaches),16,final,1
+,8607,"Parts of railway or tramway locomotives or rolling stock, n.e.s.",16,component,1
+,8608,"Railway or tramway track fixtures and fittings (excl. sleepers of wood, concrete or steel, sections of track and other track fixtures not yet assembled and railway or tramway track construction material); mechanical, i.",16,component,1
+,8609,"Containers, incl. containers for the transport of fluids, specially designed and equipped for carriage by one or more modes of transport",16,final,1
+"87 - Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof",87--,HS2 Below Threshold Trade,15a,final,0.47
+,87--,HS2 Below Threshold Trade,15b,final,0.53
+,8701,Tractors (other than tractors of heading 8709),9,final,1
+,8702,"Motor vehicles for the transport of >= 10 persons, incl. driver",15a,final,0.47
+,8702,"Motor vehicles for the transport of >= 10 persons, incl. driver",15b,final,0.53
+,8703,"Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",15a,final,0.47
+,8703,"Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",15b,final,0.53
+,8704,"Motor vehicles for the transport of goods, incl. chassis with engine and cab",15a,final,0.47
+,8704,"Motor vehicles for the transport of goods, incl. chassis with engine and cab",15b,final,0.53
+,8705,"Special purpose motor vehicles (other than those principally designed for the transport of persons or goods), e.g. breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries,.",15a,final,0.47
+,8705,"Special purpose motor vehicles (other than those principally designed for the transport of persons or goods), e.g. breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries,.",15b,final,0.53
+,8706,"Chassis fitted with engines, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transpor.",15b,component,1
+,8707,"Bodies, incl. cabs, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of good.",15a,component,1
+,8708,"Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of go.",15b,component,1
+,8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway.",15a,final,0.47
+,8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway.",15b,final,0.53
+,8710,"Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles, n.e.s.",11,final,1
+,8711,"Motorcycles, incl. mopeds, and cycles fitted with an auxiliary motor, with or without side-cars; side-cars",16,final,1
+,8712,"Bicycles and other cycles, incl. delivery tricycles, not motorised",16,final,1
+,8713,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled (excl. specially designed motor vehicles and bicycles)",16,final,1
+,8714,"Parts and accessories for motorcycles and bicycles and for carriages for disabled persons, n.e.s.",16,component,1
+,8715,"Baby carriages and parts thereof, n.e.s.",16,component,1
+,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled (excl. railway and tramway vehicles); parts thereof, n.e.s.",15a,final,0.47
+,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled (excl. railway and tramway vehicles); parts thereof, n.e.s.",15b,final,0.53
+"88 - Aircraft, spacecraft, and parts thereof",88--,HS2 Below Threshold Trade,16,final,1
+,8801,"Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft",,,
+,8802,"Powered aircraft ""e.g. helicopters and aeroplanes""; spacecraft, incl. satellites, and suborbital and spacecraft launch vehicles",16,final,1
+,8803,"Parts of aircraft and spacecraft of heading 8801 or 8802, n.e.s.",16,component,1
+,8804,"Parachutes, incl. dirigible parachutes and paragliders, and rotochutes; parts thereof and accessories thereto, n.e.s.",,,
+,8805,"Aircraft launching gear (excl. motor winches for launching gliders); deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles, n.e.s.",16,final,1
+"89 - Ships, boats and floating structures",89--,HS2 Below Threshold Trade,16,final,1
+,8901,"Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods",16,final,1
+,8902,Fishing vessels; factory ships and other vessels for processing or preserving fishery products (excl. fishing boats for sport),16,final,1
+,8903,Yachts and other vessels for pleasure or sports; rowing boats and canoes,16,final,1
+,8904,Tugs and pusher craft,16,final,1
+,8905,"Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks, floating or submersible drilling or production platforms (excl. f.",16,final,1
+,8906,"Vessels, incl. warships and lifeboats (excl. rowing boats and other vessels of heading 8901 to 8905 and vessels for breaking up)",16,final,1
+,8907,"Rafts, tanks, coffer-dams, landing stages, buoys, beacons and other floating structures (excl. vessels of heading 8901 to 8906 and floating structures for breaking up)",16,final,1
+,8908,Vessels and other floating structures for breaking up,16,final,1
+91 - Clocks and watches and parts thereof,91--,HS2 Below Threshold Trade,20,final,1
+,9101,"Wrist-watches, pocket-watches and other watches, incl. stop-watches, with case of precious metal or of metal clad with precious metal (excl. with backs made of steel)",,,
+,9102,"Wrist-watches, pocket-watches and other watches, incl. stop-watches (excl. of precious metal or of metal clad with precious metal)",20,final,1
+,9103,"Clocks with watch movements (excl. wrist-watches, pocket-watches and other watches of heading 9101 or 9102, and instrument panel clocks and the like of heading 9104)",20,final,1
+,9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, vessels and other vehicles",20,final,1
+,9105,"Clocks (excl. wrist-watches, pocket-watches and other watches of heading 9101 or 9102, clocks with watch movements of heading 9103, and instrument panel clocks and the like of heading 9104)",20,final,1
+,9106,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor, e.g. time-registers and time recorders (excl. cl.",,,
+,9107,Time switches with clock or watch movement or with synchronous motor,,,
+,9108,"Watch movements, complete and assembled",,,
+,9109,"Clock movements, complete and assembled (excl. watch movements)",,,
+,9110,"Complete, unassembled or partly assembled watch or clock movements or movement sets; incomplete watch or clock movements, assembled; rough watch or clock movements",,,
+,9111,"Cases for wrist-watches, pocket-watches and other watches, incl. stop-watches, of heading 9101 or 9102, and parts thereof, n.e.s.",,,
+,9112,"Clock and watch cases and parts thereof, n.e.s. (excl. for wrist-watches, pocket-watches and other watches of heading 9101 or 9102)",,,
+,9113,"Watch straps, watch bands and watch bracelets, and parts thereof, n.e.s.",,,
+,9114,"Clock or watch parts, n.e.s.",20,component,1
+92 - Musical instruments; parts and accessories for such,92--,HS2 Below Threshold Trade,,,
+,9201,"Pianos, incl. automatic; harpsichords and other keyboard stringed instruments",,,
+,9202,"String musical instruments, e.g. guitars, violins, and harps (excl. with keyboard)",,,
+,9203,Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds,,,
+,9204,Accordions and similar instruments; mouth organs,,,
+,9205,"Wind musical instruments ""e.g. clarinets, trumpets, bagpipes, keyboard pipe organs, harmoniums and similar keyboard instruments with free metal reeds, accordions and similar instruments, mouth organs""",,,
+,9206,"Percussion musical instruments, e.g. drums, xylophones, cymbals, castanets, maracas",7,final,1
+,9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically, e.g. organs, guitars, accordions",,,
+,9208,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading in chapter 92; decoy calls of all kinds; whistles, c.",,,
+,9209,"Parts and accessories for musical instruments, e.g. mechanisms for musical boxes, cards, discs and rolls for mechanical instruments, n.e.s; metronomes, tuning forks and pitch pipes of all kinds",,,
+93 - Arms and ammunition; parts and accessoriesthereof,93--,HS2 Below Threshold Trade,7,final,1
+,9301,"Military weapons, incl. sub-machine guns (excl. revolvers and pistols of heading 9302 and cutting and thrusting weapons of heading 9307)",7,final,1
+,9302,Revolvers and pistols (excl. those of heading 9303 or 9304 and sub-machine guns for military purposes),7,final,1
+,9303,"Firearms and similar devices which operate by the firing of an explosive charge, e.g. sporting shotguns and rifles, muzzle-loading firearms, Very pistols and other devices designed to project signal flares only, pistol.",7,final,1
+,9304,"Spring, air or gas guns and pistols, truncheons and other non-firearms (excl. swords, cutlasses, bayonettes and similar arms of heading 9307)",7,final,1
+,9305,"Parts and accessories for weapons and the like of heading 9301 to 9304, n.e.s.",7,component,1
+,9306,"Bombs, grenades, torpedos, mines, missiles, cartridges and other ammunition and projectiles and parts thereof, incl. buckshot, shot and cartridge wads, n.e.s.",,,
+,9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof, and scabbards and sheaths therefor (excl. of precious metal or of metal clad with precious metal, blunt weapons for fencing, hunting knives and da.",5,final,1
+"95 - Toys, games and sports requisites; parts and accessories thereof",95--,HS2 Below Threshold Trade,7,final,1
+,9501,"Wheeled toys designed to be ridden by children (for example, tricycles, scooters, pedal cars); dolls' carriages",7,final,1
+,9502,Dolls representing only human beings,,,
+,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size ""scale"" recreational models, working or not; puzzles of all kinds",7,final,1
+,9504,"Video game consoles and machines, articles for funfair, table or parlour games, incl. pintables, billiards, special tables for casino games and automatic bowling alley equipment",,,
+,9505,"Festival, carnival or other entertainment articles, incl. conjuring tricks and novelty jokes, n.e.s.",,,
+,9506,"Articles and equipment for general physical exercise, gymnastics, athletics, other sports, incl. table-tennis, or outdoor games, not specified or included in this chapter or elsewhere; swimming pools and paddling pools.",,,
+,9507,"Fishing rods, fish-hooks and other line fishing tackle n.e.s; fish landing nets, butterfly nets and similar nets; decoys and similar hunting or shooting requisites (excl. those of heading 9208 and 9705)",,,
+,9508,"Roundabouts, swings, shooting galleries and other fairground amusements; travelling circuses and travelling menageries; travelling theatres (excl. booths, incl. the goods on sale, goods for distribution as prizes, gami.",,,
+96 - Miscellaneous manufactured articles,96--,HS2 Below Threshold Trade,,,
+,9601,"Worked ivory, bone, tortoiseshell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these material, incl. articles obtained by moulding, n.e.s.",,,
+,9602,"Worked vegetable or mineral carving material and articles of these materials n.e.s; moulded or carved articles of wax, of paraffin, of stearin, of natural gums or natural resins or of modelling pastes, and other moulde.",,,
+,9603,"Brooms, brushes, incl. brushes constituting parts of machines, appliances or vehicles, hand-operated mechanical floor sweepers, not motorised, mops and leather dusters; prepared knots and tufts for broom or brush makin.",,,
+,9604,Hand sieves and hand riddles (excl. colanders),,,
+,9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning (excl. manicure sets)",,,
+,9606,"Buttons, press-fasteners, snap-fasteners and press studs, button moulds and other parts of these articles; button blanks (excl. cuff links)",,,
+,9607,Slide fasteners and parts thereof,,,
+,9608,"Ball-point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding pencils; pen-holders, pencil-holders and similar holders; .",,,
+,9609,"Pencils, crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks (excl. articles of heading 9608)",,,
+,9610,"Slates and boards, with writing or drawing surfaces, whether or not framed",,,
+,9611,"Hand-operated date, sealing or numbering stamps, and the like; hand-operated composing sticks and hand printing sets",,,
+,9612,"Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes",,,
+,9613,"Cigarette lighters and other lighters, whether or not mechanical or electrical and parts thereof, n.e.s. (excl. fuses and primers for propellent powders and explosives of heading 3603)",,,
+,9614,"Smoking pipes, incl. pipe bowls, cigar or cigarette holders, and parts thereof, n.e.s.",,,
+,9615,"Combs, hair-slides and the like; hairpins; curling pins, curling grips, hair-curlers and the like, and parts thereof, n.e.s. (excl. electro-thermic appliances of heading 8516)",,,
+,9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor; powder puffs and pads for the application of cosmetics or toilet preparations",,,
+,9617,"Vacuum flasks and other vacuum vessels, and parts thereof (excl. glass inners)",,,
+,9618,"Tailors' dummies and other lay figures, automata and other animated displays used for shop window dressing (excl. the articles actually on display, educational models and toy dolls)",,,
+,9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies, and similar articles, of any material",,,
+,9620,"Monopods, bipods, tripods and similar articles",,,

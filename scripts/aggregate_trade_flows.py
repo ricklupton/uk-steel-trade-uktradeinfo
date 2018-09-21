@@ -1,6 +1,10 @@
 import pandas as pd
 import datapackage
 
+from logzero import logger
+import os.path
+
+logger.info('Starting %s', os.path.basename(__file__))
 
 def load_dataframe(filename, resource):
     """Load one table from a datapackage."""
@@ -14,28 +18,47 @@ flows = load_dataframe('datapackage.json', 'flows')
 flows['mass'] = flows['mass'].astype(float)  # XXX this is annoying
 
 # Load the allocation table and category iron contents
-alloc = pd.read_csv('scripts/hs4_allocations.csv', usecols=['HS4', 'sector_code'], index_col='HS4')
+alloc = pd.read_csv('scripts/hs4_allocations.csv', index_col='HS4')
 cats = pd.read_csv('scripts/steel_contents.csv', index_col=0)
 
+# Validate allocations
+mult_sums = alloc['multiplier'].groupby('HS4').sum()
+assert all((mult_sums == 0) | (mult_sums == 1)), 'Multipliers must sum to 0 or 1'
+split_allocs = alloc[(alloc['multiplier'] != 0) &
+                     (alloc['multiplier'] != 1) &
+                     ~pd.isnull(alloc['multiplier'])]
+logger.debug('Split allocations:\n' +
+             str(split_allocs[['sector_code', 'stage', 'multiplier']]))
+
+
 # Join the table and aggregate
-agg_total_mass = flows \
-    .join(alloc, on='HS4') \
-    .groupby(['direction', 'sector_code', 'year']) \
-    .sum()
+table = flows \
+    .join(alloc, on='HS4', how='outer') \
+    .join(cats, on='sector_code') \
+    .dropna(subset=['sector_code'])
 
-# Convert kg to kt
-agg_total_mass['mass'] /= 1e6
+# Convert kg to kt and add in the category iron contents. `multiplier` is for
+# sharing an HS4-flow between multiple sector-flows
+table['mass'] *= table['multiplier'] / 1e6
+table['mass_iron'] = table['mass'] * table['iron_content']
 
-# Add in the category iron contents
-agg_iron = agg_total_mass \
-    .reset_index() \
-    .join(cats, on='sector_code')
-agg_iron['mass_iron'] = agg_iron['mass'] * agg_iron['iron_content']
+agg = table \
+    .groupby(['direction', 'sector_code', 'stage', 'year'], as_index=False) \
+    .agg({
+        'mass': 'sum',
+        'mass_iron': 'sum',
+        'sector_group': 'first',  # same in each group of sector_codes
+        'sector_name': 'first',
+        'iron_content': 'first',
+    })
+
 
 # Pivot into tables for viewing
 def pivot_table(direction, value):
-    return agg_iron[agg_iron['direction'] == direction] \
-        .pivot(index='sector_code', columns='year', values=value)
+    return agg[agg['direction'] == direction] \
+        .pivot_table(index=['sector_code', 'stage'],
+                     columns='year',
+                     values=value)
 
 table_total_exports = pivot_table('export', 'mass')
 table_total_imports = pivot_table('import', 'mass')
@@ -43,10 +66,14 @@ table_iron_exports = pivot_table('export', 'mass_iron')
 table_iron_imports = pivot_table('import', 'mass_iron')
 
 # Save
-df = agg_iron.set_index('direction')
+df = agg.set_index('direction')
 
-df = df[['sector_code', 'sector_group', 'sector_name', 'year',
+df = df[['sector_code', 'sector_group', 'sector_name', 'stage', 'year',
          'iron_content', 'mass', 'mass_iron']]
+df['year'] = df['year'].astype(int)
+df['iron_content'] = df['iron_content'].round(2)
+df['mass'] = df['mass'].round(1)
+df['mass_iron'] = df['mass_iron'].round(1)
 
-df.loc['import'].to_csv('data/imports.csv', index=False, float_format='%.1f')
-df.loc['export'].to_csv('data/exports.csv', index=False, float_format='%.1f')
+df.loc['import'].to_csv('data/imports.csv', index=False)
+df.loc['export'].to_csv('data/exports.csv', index=False)

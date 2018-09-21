@@ -68,6 +68,14 @@
             "format": "default"
           },
           {
+            "name": "stage",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "enum": ["component", "final"]
+            }
+          },
+          {
             "name": "year",
             "type": "integer",
             "format": "default"
@@ -116,6 +124,14 @@
             "name": "sector_name",
             "type": "string",
             "format": "default"
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "enum": ["component", "final"]
+            }
           },
           {
             "name": "year",
