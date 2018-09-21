@@ -1,48 +1,48 @@
 sector_code,sector_group,sector_name,stage,year,iron_content,mass,mass_iron
-10,Mechanical engineering,Metal working toolsand engineering tools,component,1996,0.71,52.6,37.4
-10,Mechanical engineering,Metal working toolsand engineering tools,component,1997,0.71,53.1,37.7
-10,Mechanical engineering,Metal working toolsand engineering tools,component,1998,0.71,56.9,40.4
-10,Mechanical engineering,Metal working toolsand engineering tools,component,1999,0.71,54.2,38.5
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2000,0.71,54.9,39.0
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2001,0.71,48.5,34.4
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2002,0.71,42.2,30.0
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2003,0.71,37.6,26.7
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2004,0.71,40.3,28.6
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2005,0.71,40.3,28.6
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2006,0.71,46.9,33.3
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2007,0.71,45.9,32.6
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2008,0.71,42.8,30.4
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2009,0.71,30.6,21.7
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2010,0.71,34.8,24.7
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2011,0.71,43.4,30.8
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2012,0.71,38.2,27.1
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2013,0.71,35.2,25.0
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2014,0.71,37.8,26.9
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2015,0.71,33.9,24.0
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2016,0.71,30.9,21.9
-10,Mechanical engineering,Metal working toolsand engineering tools,component,2017,0.71,33.2,23.6
-10,Mechanical engineering,Metal working toolsand engineering tools,final,1996,0.71,135.1,95.9
-10,Mechanical engineering,Metal working toolsand engineering tools,final,1997,0.71,127.2,90.3
-10,Mechanical engineering,Metal working toolsand engineering tools,final,1998,0.71,277.0,196.6
-10,Mechanical engineering,Metal working toolsand engineering tools,final,1999,0.71,123.3,87.5
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2000,0.71,128.7,91.4
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2001,0.71,121.8,86.5
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2002,0.71,148.0,105.1
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2003,0.71,157.6,111.9
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2004,0.71,167.2,118.7
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2005,0.71,174.6,124.0
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2006,0.71,177.8,126.2
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2007,0.71,184.4,130.9
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2008,0.71,160.8,114.2
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2009,0.71,125.5,89.1
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2010,0.71,149.7,106.3
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2011,0.71,145.2,103.1
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2012,0.71,154.7,109.8
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2013,0.71,145.1,103.0
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2014,0.71,153.9,109.3
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2015,0.71,168.4,119.5
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2016,0.71,165.3,117.4
-10,Mechanical engineering,Metal working toolsand engineering tools,final,2017,0.71,169.4,120.3
+10,Mechanical engineering,Metal working toolsand engineering tools,component,1996,0.71,112.7,80.0
+10,Mechanical engineering,Metal working toolsand engineering tools,component,1997,0.71,112.6,79.9
+10,Mechanical engineering,Metal working toolsand engineering tools,component,1998,0.71,251.7,178.7
+10,Mechanical engineering,Metal working toolsand engineering tools,component,1999,0.71,107.3,76.2
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2000,0.71,118.1,83.8
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2001,0.71,96.6,68.6
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2002,0.71,97.2,69.0
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2003,0.71,92.8,65.9
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2004,0.71,106.5,75.6
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2005,0.71,112.9,80.2
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2006,0.71,124.9,88.7
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2007,0.71,123.2,87.5
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2008,0.71,120.1,85.3
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2009,0.71,95.3,67.7
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2010,0.71,102.1,72.5
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2011,0.71,121.3,86.1
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2012,0.71,120.6,85.6
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2013,0.71,107.3,76.2
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2014,0.71,116.5,82.7
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2015,0.71,120.1,85.3
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2016,0.71,119.3,84.7
+10,Mechanical engineering,Metal working toolsand engineering tools,component,2017,0.71,122.3,86.8
+10,Mechanical engineering,Metal working toolsand engineering tools,final,1996,0.71,75.1,53.3
+10,Mechanical engineering,Metal working toolsand engineering tools,final,1997,0.71,67.7,48.1
+10,Mechanical engineering,Metal working toolsand engineering tools,final,1998,0.71,82.2,58.4
+10,Mechanical engineering,Metal working toolsand engineering tools,final,1999,0.71,70.1,49.8
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2000,0.71,65.6,46.6
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2001,0.71,73.7,52.3
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2002,0.71,92.9,66.0
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2003,0.71,102.4,72.7
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2004,0.71,101.0,71.7
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2005,0.71,102.0,72.4
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2006,0.71,99.8,70.8
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2007,0.71,107.0,76.0
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2008,0.71,83.5,59.3
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2009,0.71,60.9,43.2
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2010,0.71,82.4,58.5
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2011,0.71,67.4,47.8
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2012,0.71,72.3,51.3
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2013,0.71,73.0,51.8
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2014,0.71,75.3,53.5
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2015,0.71,82.1,58.3
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2016,0.71,76.9,54.6
+10,Mechanical engineering,Metal working toolsand engineering tools,final,2017,0.71,80.3,57.0
 11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",component,1996,0.85,157.7,134.0
 11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",component,1997,0.85,159.3,135.4
 11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",component,1998,0.85,157.4,133.8
@@ -87,50 +87,50 @@ sector_code,sector_group,sector_name,stage,year,iron_content,mass,mass_iron
 11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",final,2015,0.85,587.1,499.0
 11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",final,2016,0.85,596.1,506.7
 11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",final,2017,0.85,649.5,552.1
-12,Mechanical engineering,Other mechanical engineering,component,1996,0.71,28.9,20.5
-12,Mechanical engineering,Other mechanical engineering,component,1997,0.71,30.5,21.6
-12,Mechanical engineering,Other mechanical engineering,component,1998,0.71,30.8,21.9
-12,Mechanical engineering,Other mechanical engineering,component,1999,0.71,25.3,18.0
-12,Mechanical engineering,Other mechanical engineering,component,2000,0.71,26.2,18.6
-12,Mechanical engineering,Other mechanical engineering,component,2001,0.71,31.4,22.3
-12,Mechanical engineering,Other mechanical engineering,component,2002,0.71,31.8,22.6
-12,Mechanical engineering,Other mechanical engineering,component,2003,0.71,42.3,30.1
-12,Mechanical engineering,Other mechanical engineering,component,2004,0.71,43.3,30.7
-12,Mechanical engineering,Other mechanical engineering,component,2005,0.71,52.7,37.4
-12,Mechanical engineering,Other mechanical engineering,component,2006,0.71,48.5,34.4
-12,Mechanical engineering,Other mechanical engineering,component,2007,0.71,39.6,28.1
-12,Mechanical engineering,Other mechanical engineering,component,2008,0.71,46.3,32.9
-12,Mechanical engineering,Other mechanical engineering,component,2009,0.71,29.6,21.0
-12,Mechanical engineering,Other mechanical engineering,component,2010,0.71,43.2,30.7
-12,Mechanical engineering,Other mechanical engineering,component,2011,0.71,40.7,28.9
-12,Mechanical engineering,Other mechanical engineering,component,2012,0.71,38.7,27.5
-12,Mechanical engineering,Other mechanical engineering,component,2013,0.71,35.1,24.9
-12,Mechanical engineering,Other mechanical engineering,component,2014,0.71,36.2,25.7
-12,Mechanical engineering,Other mechanical engineering,component,2015,0.71,32.1,22.8
-12,Mechanical engineering,Other mechanical engineering,component,2016,0.71,26.6,18.9
-12,Mechanical engineering,Other mechanical engineering,component,2017,0.71,30.4,21.6
-12,Mechanical engineering,Other mechanical engineering,final,1996,0.71,267.3,189.8
-12,Mechanical engineering,Other mechanical engineering,final,1997,0.71,317.4,225.3
-12,Mechanical engineering,Other mechanical engineering,final,1998,0.71,314.2,223.1
-12,Mechanical engineering,Other mechanical engineering,final,1999,0.71,243.7,173.0
-12,Mechanical engineering,Other mechanical engineering,final,2000,0.71,258.1,183.3
-12,Mechanical engineering,Other mechanical engineering,final,2001,0.71,239.9,170.4
-12,Mechanical engineering,Other mechanical engineering,final,2002,0.71,243.8,173.1
-12,Mechanical engineering,Other mechanical engineering,final,2003,0.71,265.1,188.2
-12,Mechanical engineering,Other mechanical engineering,final,2004,0.71,277.3,196.9
-12,Mechanical engineering,Other mechanical engineering,final,2005,0.71,269.5,191.3
-12,Mechanical engineering,Other mechanical engineering,final,2006,0.71,278.6,197.8
-12,Mechanical engineering,Other mechanical engineering,final,2007,0.71,340.5,241.7
-12,Mechanical engineering,Other mechanical engineering,final,2008,0.71,336.4,238.8
-12,Mechanical engineering,Other mechanical engineering,final,2009,0.71,249.8,177.4
-12,Mechanical engineering,Other mechanical engineering,final,2010,0.71,286.9,203.7
-12,Mechanical engineering,Other mechanical engineering,final,2011,0.71,317.5,225.4
-12,Mechanical engineering,Other mechanical engineering,final,2012,0.71,358.1,254.2
-12,Mechanical engineering,Other mechanical engineering,final,2013,0.71,299.7,212.8
-12,Mechanical engineering,Other mechanical engineering,final,2014,0.71,291.7,207.1
-12,Mechanical engineering,Other mechanical engineering,final,2015,0.71,282.6,200.7
-12,Mechanical engineering,Other mechanical engineering,final,2016,0.71,493.0,350.1
-12,Mechanical engineering,Other mechanical engineering,final,2017,0.71,478.3,339.6
+12,Mechanical engineering,Other mechanical engineering,component,1996,0.71,33.6,23.8
+12,Mechanical engineering,Other mechanical engineering,component,1997,0.71,36.1,25.6
+12,Mechanical engineering,Other mechanical engineering,component,1998,0.71,35.7,25.4
+12,Mechanical engineering,Other mechanical engineering,component,1999,0.71,29.5,20.9
+12,Mechanical engineering,Other mechanical engineering,component,2000,0.71,30.6,21.7
+12,Mechanical engineering,Other mechanical engineering,component,2001,0.71,36.3,25.8
+12,Mechanical engineering,Other mechanical engineering,component,2002,0.71,36.4,25.8
+12,Mechanical engineering,Other mechanical engineering,component,2003,0.71,46.7,33.2
+12,Mechanical engineering,Other mechanical engineering,component,2004,0.71,48.2,34.2
+12,Mechanical engineering,Other mechanical engineering,component,2005,0.71,56.9,40.4
+12,Mechanical engineering,Other mechanical engineering,component,2006,0.71,52.2,37.1
+12,Mechanical engineering,Other mechanical engineering,component,2007,0.71,43.3,30.8
+12,Mechanical engineering,Other mechanical engineering,component,2008,0.71,50.6,35.9
+12,Mechanical engineering,Other mechanical engineering,component,2009,0.71,33.4,23.7
+12,Mechanical engineering,Other mechanical engineering,component,2010,0.71,47.1,33.4
+12,Mechanical engineering,Other mechanical engineering,component,2011,0.71,45.6,32.4
+12,Mechanical engineering,Other mechanical engineering,component,2012,0.71,44.4,31.5
+12,Mechanical engineering,Other mechanical engineering,component,2013,0.71,40.9,29.0
+12,Mechanical engineering,Other mechanical engineering,component,2014,0.71,44.9,31.9
+12,Mechanical engineering,Other mechanical engineering,component,2015,0.71,38.2,27.1
+12,Mechanical engineering,Other mechanical engineering,component,2016,0.71,41.4,29.4
+12,Mechanical engineering,Other mechanical engineering,component,2017,0.71,58.0,41.2
+12,Mechanical engineering,Other mechanical engineering,final,1996,0.71,262.6,186.4
+12,Mechanical engineering,Other mechanical engineering,final,1997,0.71,311.7,221.3
+12,Mechanical engineering,Other mechanical engineering,final,1998,0.71,309.3,219.6
+12,Mechanical engineering,Other mechanical engineering,final,1999,0.71,239.6,170.1
+12,Mechanical engineering,Other mechanical engineering,final,2000,0.71,253.8,180.2
+12,Mechanical engineering,Other mechanical engineering,final,2001,0.71,235.1,166.9
+12,Mechanical engineering,Other mechanical engineering,final,2002,0.71,239.2,169.8
+12,Mechanical engineering,Other mechanical engineering,final,2003,0.71,260.7,185.1
+12,Mechanical engineering,Other mechanical engineering,final,2004,0.71,272.4,193.4
+12,Mechanical engineering,Other mechanical engineering,final,2005,0.71,265.3,188.3
+12,Mechanical engineering,Other mechanical engineering,final,2006,0.71,274.8,195.1
+12,Mechanical engineering,Other mechanical engineering,final,2007,0.71,336.7,239.1
+12,Mechanical engineering,Other mechanical engineering,final,2008,0.71,332.2,235.9
+12,Mechanical engineering,Other mechanical engineering,final,2009,0.71,246.0,174.7
+12,Mechanical engineering,Other mechanical engineering,final,2010,0.71,283.0,200.9
+12,Mechanical engineering,Other mechanical engineering,final,2011,0.71,312.6,221.9
+12,Mechanical engineering,Other mechanical engineering,final,2012,0.71,352.4,250.2
+12,Mechanical engineering,Other mechanical engineering,final,2013,0.71,294.0,208.7
+12,Mechanical engineering,Other mechanical engineering,final,2014,0.71,283.0,201.0
+12,Mechanical engineering,Other mechanical engineering,final,2015,0.71,276.5,196.3
+12,Mechanical engineering,Other mechanical engineering,final,2016,0.71,478.2,339.5
+12,Mechanical engineering,Other mechanical engineering,final,2017,0.71,450.7,320.0
 13,Mechanical engineering,Industrial and process plant,component,1996,1.0,6.4,6.4
 13,Mechanical engineering,Industrial and process plant,component,1997,1.0,9.1,9.1
 13,Mechanical engineering,Industrial and process plant,component,1998,1.0,8.3,8.3
@@ -150,9 +150,9 @@ sector_code,sector_group,sector_name,stage,year,iron_content,mass,mass_iron
 13,Mechanical engineering,Industrial and process plant,component,2012,1.0,2.2,2.2
 13,Mechanical engineering,Industrial and process plant,component,2013,1.0,1.7,1.7
 13,Mechanical engineering,Industrial and process plant,component,2014,1.0,1.8,1.8
-13,Mechanical engineering,Industrial and process plant,component,2015,1.0,2.9,2.9
-13,Mechanical engineering,Industrial and process plant,component,2016,1.0,2.6,2.6
-13,Mechanical engineering,Industrial and process plant,component,2017,1.0,3.6,3.6
+13,Mechanical engineering,Industrial and process plant,component,2015,1.0,30.3,30.3
+13,Mechanical engineering,Industrial and process plant,component,2016,1.0,31.6,31.6
+13,Mechanical engineering,Industrial and process plant,component,2017,1.0,34.0,34.0
 13,Mechanical engineering,Industrial and process plant,final,1996,1.0,280.7,280.7
 13,Mechanical engineering,Industrial and process plant,final,1997,1.0,316.4,316.4
 13,Mechanical engineering,Industrial and process plant,final,1998,1.0,236.5,236.5
@@ -172,9 +172,9 @@ sector_code,sector_group,sector_name,stage,year,iron_content,mass,mass_iron
 13,Mechanical engineering,Industrial and process plant,final,2012,1.0,195.6,195.6
 13,Mechanical engineering,Industrial and process plant,final,2013,1.0,186.7,186.7
 13,Mechanical engineering,Industrial and process plant,final,2014,1.0,178.3,178.3
-13,Mechanical engineering,Industrial and process plant,final,2015,1.0,238.2,238.2
-13,Mechanical engineering,Industrial and process plant,final,2016,1.0,240.6,240.6
-13,Mechanical engineering,Industrial and process plant,final,2017,1.0,249.3,249.3
+13,Mechanical engineering,Industrial and process plant,final,2015,1.0,210.8,210.8
+13,Mechanical engineering,Industrial and process plant,final,2016,1.0,211.6,211.6
+13,Mechanical engineering,Industrial and process plant,final,2017,1.0,218.9,218.9
 14,Construction,Construction and fabricated constructional steelwork,final,1996,1.0,359.7,359.7
 14,Construction,Construction and fabricated constructional steelwork,final,1997,1.0,362.0,362.0
 14,Construction,Construction and fabricated constructional steelwork,final,1998,1.0,358.1,358.1
@@ -197,28 +197,28 @@ sector_code,sector_group,sector_name,stage,year,iron_content,mass,mass_iron
 14,Construction,Construction and fabricated constructional steelwork,final,2015,1.0,335.9,335.9
 14,Construction,Construction and fabricated constructional steelwork,final,2016,1.0,366.9,366.9
 14,Construction,Construction and fabricated constructional steelwork,final,2017,1.0,371.0,371.0
-15a,Transport,Motor vehicles: BIW,component,1996,0.87,19.8,17.3
-15a,Transport,Motor vehicles: BIW,component,1997,0.87,15.6,13.6
-15a,Transport,Motor vehicles: BIW,component,1998,0.87,15.8,13.8
-15a,Transport,Motor vehicles: BIW,component,1999,0.87,6.8,5.9
-15a,Transport,Motor vehicles: BIW,component,2000,0.87,11.6,10.1
-15a,Transport,Motor vehicles: BIW,component,2001,0.87,11.9,10.3
-15a,Transport,Motor vehicles: BIW,component,2002,0.87,10.5,9.2
-15a,Transport,Motor vehicles: BIW,component,2003,0.87,8.3,7.2
-15a,Transport,Motor vehicles: BIW,component,2004,0.87,7.1,6.2
-15a,Transport,Motor vehicles: BIW,component,2005,0.87,5.4,4.7
-15a,Transport,Motor vehicles: BIW,component,2006,0.87,7.1,6.2
-15a,Transport,Motor vehicles: BIW,component,2007,0.87,7.5,6.5
-15a,Transport,Motor vehicles: BIW,component,2008,0.87,7.5,6.5
-15a,Transport,Motor vehicles: BIW,component,2009,0.87,4.6,4.0
-15a,Transport,Motor vehicles: BIW,component,2010,0.87,4.5,3.9
-15a,Transport,Motor vehicles: BIW,component,2011,0.87,4.2,3.6
-15a,Transport,Motor vehicles: BIW,component,2012,0.87,13.0,11.3
-15a,Transport,Motor vehicles: BIW,component,2013,0.87,57.9,50.4
-15a,Transport,Motor vehicles: BIW,component,2014,0.87,10.5,9.2
-15a,Transport,Motor vehicles: BIW,component,2015,0.87,8.0,7.0
-15a,Transport,Motor vehicles: BIW,component,2016,0.87,9.2,8.0
-15a,Transport,Motor vehicles: BIW,component,2017,0.87,10.9,9.5
+15a,Transport,Motor vehicles: BIW,component,1996,0.87,429.9,374.0
+15a,Transport,Motor vehicles: BIW,component,1997,0.87,456.0,396.8
+15a,Transport,Motor vehicles: BIW,component,1998,0.87,468.2,407.3
+15a,Transport,Motor vehicles: BIW,component,1999,0.87,464.6,404.2
+15a,Transport,Motor vehicles: BIW,component,2000,0.87,574.4,499.7
+15a,Transport,Motor vehicles: BIW,component,2001,0.87,502.9,437.6
+15a,Transport,Motor vehicles: BIW,component,2002,0.87,492.9,428.8
+15a,Transport,Motor vehicles: BIW,component,2003,0.87,516.9,449.7
+15a,Transport,Motor vehicles: BIW,component,2004,0.87,503.6,438.1
+15a,Transport,Motor vehicles: BIW,component,2005,0.87,470.5,409.3
+15a,Transport,Motor vehicles: BIW,component,2006,0.87,516.5,449.4
+15a,Transport,Motor vehicles: BIW,component,2007,0.87,457.7,398.2
+15a,Transport,Motor vehicles: BIW,component,2008,0.87,410.1,356.8
+15a,Transport,Motor vehicles: BIW,component,2009,0.87,281.4,244.8
+15a,Transport,Motor vehicles: BIW,component,2010,0.87,317.6,276.3
+15a,Transport,Motor vehicles: BIW,component,2011,0.87,347.2,302.1
+15a,Transport,Motor vehicles: BIW,component,2012,0.87,351.2,305.6
+15a,Transport,Motor vehicles: BIW,component,2013,0.87,377.6,328.6
+15a,Transport,Motor vehicles: BIW,component,2014,0.87,316.4,275.3
+15a,Transport,Motor vehicles: BIW,component,2015,0.87,350.0,304.5
+15a,Transport,Motor vehicles: BIW,component,2016,0.87,370.8,322.6
+15a,Transport,Motor vehicles: BIW,component,2017,0.87,369.2,321.2
 15a,Transport,Motor vehicles: BIW,final,1996,0.87,608.4,529.3
 15a,Transport,Motor vehicles: BIW,final,1997,0.87,667.0,580.3
 15a,Transport,Motor vehicles: BIW,final,1998,0.87,704.4,612.9
@@ -241,50 +241,50 @@ sector_code,sector_group,sector_name,stage,year,iron_content,mass,mass_iron
 15a,Transport,Motor vehicles: BIW,final,2015,0.87,1093.6,951.4
 15a,Transport,Motor vehicles: BIW,final,2016,0.87,1197.8,1042.1
 15a,Transport,Motor vehicles: BIW,final,2017,0.87,1208.9,1051.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,1996,0.44,1071.6,471.5
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,1997,0.44,1174.2,516.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,1998,0.44,1179.0,518.8
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,1999,0.44,1148.0,505.1
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2000,0.44,1506.0,662.6
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2001,0.44,1234.4,543.1
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2002,0.44,1189.7,523.5
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2003,0.44,1274.5,560.8
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2004,0.44,1281.4,563.8
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2005,0.44,1179.4,518.9
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2006,0.44,1280.6,563.5
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2007,0.44,1155.3,508.3
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2008,0.44,1039.4,457.4
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2009,0.44,705.2,310.3
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2010,0.44,818.5,360.1
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2011,0.44,904.9,398.2
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2012,0.44,904.8,398.1
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2013,0.44,873.4,384.3
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2014,0.44,858.4,377.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2015,0.44,906.9,399.0
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2016,0.44,933.9,410.9
-15b,Transport,Motor vehicles: drivetrain and trimmings,component,2017,0.44,934.0,411.0
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,1996,0.44,912.0,401.3
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,1997,0.44,978.7,430.6
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,1998,0.44,1024.2,450.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,1999,0.44,1111.0,488.8
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2000,0.44,1126.0,495.4
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2001,0.44,984.3,433.1
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2002,0.44,1133.3,498.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2003,0.44,1185.7,521.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2004,0.44,1263.7,556.0
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2005,0.44,1308.7,575.8
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2006,0.44,1303.3,573.5
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2007,0.44,1449.9,638.0
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2008,0.44,1443.4,635.1
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2009,0.44,1012.1,445.3
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2010,0.44,1286.2,565.9
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2011,0.44,1495.0,657.8
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2012,0.44,1491.8,656.4
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2013,0.44,1578.9,694.7
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2014,0.44,1615.0,710.6
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2015,0.44,1594.6,701.6
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2016,0.44,1707.3,751.2
-15b,Transport,Motor vehicles: drivetrain and trimmings,final,2017,0.44,1727.8,760.2
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,1996,0.44,887.4,390.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,1997,0.44,960.3,422.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,1998,0.44,956.5,420.9
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,1999,0.44,918.7,404.2
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2000,0.44,1197.3,526.8
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2001,0.44,1000.0,440.0
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2002,0.44,975.1,429.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2003,0.44,1029.9,453.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2004,0.44,1053.6,463.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2005,0.44,975.6,429.3
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2006,0.44,1086.9,478.2
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2007,0.44,1076.5,473.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2008,0.44,1051.5,462.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2009,0.44,726.0,319.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2010,0.44,870.3,382.9
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2011,0.44,979.4,430.9
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2012,0.44,920.8,405.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2013,0.44,953.0,419.3
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2014,0.44,989.5,435.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2015,0.44,926.4,407.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2016,0.44,928.9,408.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,component,2017,0.44,940.3,413.7
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,1996,0.44,686.0,301.8
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,1997,0.44,752.2,331.0
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,1998,0.44,794.4,349.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,1999,0.44,882.4,388.2
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2000,0.44,871.9,383.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2001,0.44,727.6,320.2
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2002,0.44,865.5,380.8
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2003,0.44,921.7,405.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2004,0.44,995.0,437.8
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2005,0.44,1047.4,460.8
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2006,0.44,987.7,434.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2007,0.44,1078.4,474.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2008,0.44,1028.7,452.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2009,0.44,714.6,314.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2010,0.44,921.1,405.3
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2011,0.44,1077.5,474.1
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2012,0.44,1137.6,500.5
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2013,0.44,1179.6,519.0
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2014,0.44,1178.2,518.4
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2015,0.44,1233.2,542.6
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2016,0.44,1350.7,594.3
+15b,Transport,Motor vehicles: drivetrain and trimmings,final,2017,0.44,1363.2,599.8
 16,Transport,Other transport,component,1996,0.58,27.6,16.0
 16,Transport,Other transport,component,1997,0.58,17.3,10.1
 16,Transport,Other transport,component,1998,0.58,27.0,15.7

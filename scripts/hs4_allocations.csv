@@ -54,15 +54,16 @@ HS2,HS4,HS description,sector_code,stage,multiplier
 ,8309,"Stoppers, caps and lids, incl. crown corks, screw caps and pouring stoppers, capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal",7,final,1
 ,8310,"Sign-plates, nameplates, address-plates and similar plates, numbers, letters and other symbols, of base metal, incl. traffic signs (excl. those of heading 9405, type and the like, and signal boards, signal discs and si.",7,final,1
 ,8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carb.",,,
-"84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",84--,HS2 Below Threshold Trade,13,final,1
+"84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",84--,HS2 Below Threshold Trade,13,component,0.5
+"84 - Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",84--,HS2 Below Threshold Trade,13,final,0.5
 ,8401,"Nuclear reactors; fuel elements ""cartridges"", non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation; parts thereof",13,final,1
 ,8402,Steam or other vapour generating boilers (excl. central heating hot water boilers capable also of producing low pressure steam); superheated water boilers; parts thereof,13,final,1
 ,8403,"Central heating boilers, non-electric; parts thereof (excl. vapour generating boilers and superheated water boilers of heading 8402)",7,final,1
 ,8404,"Auxiliary plant for use with boilers of heading 8402 or 8403, e.g. economizers, superheaters, soot removers and gas recoverers; condensers for steam or other vapour power units; parts thereof",13,final,1
 ,8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers; parts thereof (excl. coke ovens, electrolytic p.",13,final,1
 ,8406,Steam turbines and other vapour turbines; parts thereof,13,component,1
-,8407,Spark-ignition reciprocating or rotary internal combustion piston engine,15b,final,1
-,8408,"Compression-ignition internal combustion piston engine ""diesel or semi-diesel engine""",15b,final,1
+,8407,Spark-ignition reciprocating or rotary internal combustion piston engine,15b,component,1
+,8408,"Compression-ignition internal combustion piston engine ""diesel or semi-diesel engine""",15b,component,1
 ,8409,Parts suitable for use solely or principally with internal combustion piston engine of heading 8407 or 8408,15b,component,1
 ,8410,"Hydraulic turbines, water wheels, and regulators therefor (excl. hydraulic power engines and motors of heading 8412)",12,final,1
 ,8411,"Turbojets, turbopropellers and other gas turbines",12,final,1
@@ -135,10 +136,10 @@ HS2,HS4,HS description,sector_code,stage,multiplier
 ,8478,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this chapter; parts thereof",8,final,1
 ,8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter; parts thereof",8,final,1
 ,8480,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics (excl. moulds of graphite or other carbons, cer.",6,final,1
-,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, incl. pressure-reducing valves and thermostatically controlled valves; parts thereof",10,final,1
+,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, incl. pressure-reducing valves and thermostatically controlled valves; parts thereof",10,component,1
 ,8482,Ball or roller bearings (excl. steel balls of heading 7326); parts thereof,10,component,1
 ,8483,"Transmission shafts, incl. camshafts and crankshafts, and cranks; bearing housings and plain shaft bearings for machines; gears and gearing; ball or roller screws, gear boxes and other speed changers, incl. torque conv.",15b,component,1
-,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or.",12,final,1
+,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or.",12,component,1
 ,8485,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this chapter",12,component,1
 ,8486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus sp.",12,final,1
 ,8487,"Machinery parts, n.e.s. in chapter 84 (excl. parts containing electrical connectors, insulators, coils, contacts or other electrical features)",12,component,1
@@ -214,7 +215,8 @@ HS2,HS4,HS description,sector_code,stage,multiplier
 ,8705,"Special purpose motor vehicles (other than those principally designed for the transport of persons or goods), e.g. breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries,.",15b,final,0.53
 ,8706,"Chassis fitted with engines, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transpor.",15b,component,1
 ,8707,"Bodies, incl. cabs, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of good.",15a,component,1
-,8708,"Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of go.",15b,component,1
+,8708,"Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of go.",15a,component,0.47
+,8708,"Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of go.",15b,component,0.53
 ,8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway.",15a,final,0.47
 ,8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway.",15b,final,0.53
 ,8710,"Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles, n.e.s.",11,final,1

@@ -42,6 +42,8 @@ table = flows \
 table['mass'] *= table['multiplier'] / 1e6
 table['mass_iron'] = table['mass'] * table['iron_content']
 
+table.to_csv('checking_table.csv')
+
 agg = table \
     .groupby(['direction', 'sector_code', 'stage', 'year'], as_index=False) \
     .agg({
